@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "zh-hk"
-title                    : "Wei FAN | 范唯"
+title                    : "Wei FAN | 范 唯"
 title_separator          : "-"
-name                     : &name "Wei FAN | 范唯"
+name                     : &name "Wei FAN | 范 唯"
 description              : &description ""
 url                      : https://alexfan.cn # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wei FAN"
+  name             : "Wei FAN | 范 唯"
   avatar           : "profile.png"
   bio              : "Student at HKUST-KnowComp"
   location         : "Hong Kong SAR, China"
