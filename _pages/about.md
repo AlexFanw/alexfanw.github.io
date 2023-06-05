@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently an MPhil student supervised by [Prof.Yangqiu Song](https://hkust.edu.hk/) at the Hong Kong University of Science and Technology. Please feel free to contact me if you would like to discuss my research further. 
+Welcome! I am currently an MPhil student supervised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/). Please feel free to contact me if you would like to discuss my research further. 
 
 ## Research Interest
 - Recommender System
