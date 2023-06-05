@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently an MSc of BDT student at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), and I will soon be starting my MPhil degree supervised by [Prof. Yangqiu Song](https://hkust.edu.hk/).
+Welcome! I am currently an MPhil student supervised by [Prof.Yangqiu Song](https://hkust.edu.hk/) at the Hong Kong University of Science and Technology. Please feel free to contact me if you would like to discuss my research further. 
 
 ## Research Interest
-- Recommender System: Conversational Recommender System
-- Reinforcement Learning: Hierarchical Reinforcement Learning
-- **Federated Learning: Privacy**
+- Recommender System
+- Reinforcement Learning
+- **Privacy**
 
 
 ## Education
