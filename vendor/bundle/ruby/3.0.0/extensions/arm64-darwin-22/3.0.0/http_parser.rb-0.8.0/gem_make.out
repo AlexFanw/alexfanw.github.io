@@ -1,0 +1,24 @@
+current directory: /Users/alexfan/projects/alexfanw.github.io/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/opt/homebrew/opt/ruby@3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/alexfan/projects/alexfanw.github.io/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230817-45390-rguqch sitelibdir\=./.gem.20230817-45390-rguqch clean
+
+current directory: /Users/alexfan/projects/alexfanw.github.io/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230817-45390-rguqch sitelibdir\=./.gem.20230817-45390-rguqch
+compiling ruby_http_parser.c
+ruby_http_parser.c:365:17: warning: comparison of integers of different signs: 'size_t' (aka 'unsigned long') and 'long' [-Wsign-compare]
+    if (nparsed < len)
+        ~~~~~~~ ^ ~~~
+1 warning generated.
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+ld: warning: dylib (/opt/homebrew/Cellar/ruby@3.0/3.0.6_1/lib/libruby.3.0.dylib) was built for newer macOS version (13.0) than being linked (12.3)
+
+current directory: /Users/alexfan/projects/alexfanw.github.io/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230817-45390-rguqch sitelibdir\=./.gem.20230817-45390-rguqch install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20230817-45390-rguqch
+
+current directory: /Users/alexfan/projects/alexfanw.github.io/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230817-45390-rguqch sitelibdir\=./.gem.20230817-45390-rguqch clean

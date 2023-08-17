@@ -1,0 +1,21 @@
+current directory: /Users/alexfan/projects/alexfanw.github.io/vendor/bundle/ruby/3.0.0/gems/racc-1.6.2/ext/racc/cparse
+/opt/homebrew/opt/ruby@3.0/bin/ruby extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/alexfan/projects/alexfanw.github.io/vendor/bundle/ruby/3.0.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230817-45390-pm37hd sitelibdir\=./.gem.20230817-45390-pm37hd clean
+
+current directory: /Users/alexfan/projects/alexfanw.github.io/vendor/bundle/ruby/3.0.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230817-45390-pm37hd sitelibdir\=./.gem.20230817-45390-pm37hd
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: dylib (/opt/homebrew/Cellar/ruby@3.0/3.0.6_1/lib/libruby.3.0.dylib) was built for newer macOS version (13.0) than being linked (12.3)
+
+current directory: /Users/alexfan/projects/alexfanw.github.io/vendor/bundle/ruby/3.0.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230817-45390-pm37hd sitelibdir\=./.gem.20230817-45390-pm37hd install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20230817-45390-pm37hd/racc
+
+current directory: /Users/alexfan/projects/alexfanw.github.io/vendor/bundle/ruby/3.0.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230817-45390-pm37hd sitelibdir\=./.gem.20230817-45390-pm37hd clean

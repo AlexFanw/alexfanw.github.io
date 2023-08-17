@@ -1,0 +1,20 @@
+current directory: /Users/alexfan/projects/alexfanw.github.io/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+/opt/homebrew/opt/ruby@3.0/bin/ruby extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/alexfan/projects/alexfanw.github.io/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230817-45390-3eejoo sitelibdir\=./.gem.20230817-45390-3eejoo clean
+
+current directory: /Users/alexfan/projects/alexfanw.github.io/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230817-45390-3eejoo sitelibdir\=./.gem.20230817-45390-3eejoo
+compiling unf.cc
+linking shared-object unf_ext.bundle
+ld: warning: dylib (/opt/homebrew/Cellar/ruby@3.0/3.0.6_1/lib/libruby.3.0.dylib) was built for newer macOS version (13.0) than being linked (12.3)
+
+current directory: /Users/alexfan/projects/alexfanw.github.io/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230817-45390-3eejoo sitelibdir\=./.gem.20230817-45390-3eejoo install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20230817-45390-3eejoo
+
+current directory: /Users/alexfan/projects/alexfanw.github.io/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230817-45390-3eejoo sitelibdir\=./.gem.20230817-45390-3eejoo clean

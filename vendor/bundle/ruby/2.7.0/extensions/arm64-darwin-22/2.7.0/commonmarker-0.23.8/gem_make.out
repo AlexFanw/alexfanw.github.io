@@ -1,0 +1,386 @@
+current directory: /Users/alexfan/projects/alexfanw.github.io/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.23.8/ext/commonmarker
+/opt/homebrew/opt/ruby@2.7/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/alexfan/projects/alexfanw.github.io/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.23.8/ext/commonmarker
+make DESTDIR\= sitearchdir\=./.gem.20230817-52647-76lssx sitelibdir\=./.gem.20230817-52647-76lssx clean
+
+current directory: /Users/alexfan/projects/alexfanw.github.io/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.23.8/ext/commonmarker
+make DESTDIR\= sitearchdir\=./.gem.20230817-52647-76lssx sitelibdir\=./.gem.20230817-52647-76lssx
+compiling arena.c
+compiling autolink.c
+compiling blocks.c
+compiling buffer.c
+compiling cmark.c
+compiling cmark_ctype.c
+compiling commonmark.c
+compiling commonmarker.c
+In file included from commonmarker.c:1:
+In file included from ./commonmarker.h:9:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby.h:33:
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/ruby.h:1865:1: warning: unknown attribute '__error__' ignored [-Wunknown-attributes]
+ERRORFUNC((" argument length doesn't match"), int rb_varargs_bad_length(int,int));
+^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:160:43: note: expanded from macro 'ERRORFUNC'
+#define ERRORFUNC(mesg,x) __attribute__ ((__error__ mesg)) x
+                                          ^~~~~~~~~~~~~~
+In file included from commonmarker.c:1:
+In file included from ./commonmarker.h:9:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby.h:33:
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/ruby.h:2347:1: warning: unknown attribute '__error__' ignored [-Wunknown-attributes]
+ERRORFUNC(("bad scan arg format"), void rb_scan_args_bad_format(const char*));
+^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:160:43: note: expanded from macro 'ERRORFUNC'
+#define ERRORFUNC(mesg,x) __attribute__ ((__error__ mesg)) x
+                                          ^~~~~~~~~~~~~~
+In file included from commonmarker.c:1:
+In file included from ./commonmarker.h:9:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby.h:33:
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/ruby.h:2348:1: warning: unknown attribute '__error__' ignored [-Wunknown-attributes]
+ERRORFUNC(("variable argument length doesn't match"), void rb_scan_args_length_mismatch(const char*,int));
+^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:160:43: note: expanded from macro 'ERRORFUNC'
+#define ERRORFUNC(mesg,x) __attribute__ ((__error__ mesg)) x
+                                          ^~~~~~~~~~~~~~
+In file included from commonmarker.c:1:
+In file included from ./commonmarker.h:9:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby.h:33:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/ruby.h:2762:
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:16:1: warning: unknown attribute '__error__' ignored [-Wunknown-attributes]
+DECLARE_DEPRECATED_FEATURE(2.2, rb_disable_super);
+^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:13:14: note: expanded from macro 'DECLARE_DEPRECATED_FEATURE'
+    NORETURN(ERRORFUNC(("deprecated since "#ver), DEPRECATED(void func(void))))
+    ~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:160:43: note: expanded from macro 'ERRORFUNC'
+#define ERRORFUNC(mesg,x) __attribute__ ((__error__ mesg)) x
+                                          ^
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:149:52: note: expanded from macro 'NORETURN'
+#define NORETURN(x) __attribute__ ((__noreturn__)) x
+                                                   ^
+In file included from commonmarker.c:1:
+In file included from ./commonmarker.h:9:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby.h:33:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/ruby.h:2762:
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:17:1: warning: unknown attribute '__error__' ignored [-Wunknown-attributes]
+DECLARE_DEPRECATED_FEATURE(2.2, rb_enable_super);
+^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:13:14: note: expanded from macro 'DECLARE_DEPRECATED_FEATURE'
+    NORETURN(ERRORFUNC(("deprecated since "#ver), DEPRECATED(void func(void))))
+    ~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:160:43: note: expanded from macro 'ERRORFUNC'
+#define ERRORFUNC(mesg,x) __attribute__ ((__error__ mesg)) x
+                                          ^
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:149:52: note: expanded from macro 'NORETURN'
+#define NORETURN(x) __attribute__ ((__noreturn__)) x
+                                                   ^
+In file included from commonmarker.c:1:
+In file included from ./commonmarker.h:9:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby.h:33:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/ruby.h:2762:
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:20:1: warning: unknown attribute '__error__' ignored [-Wunknown-attributes]
+DECLARE_DEPRECATED_FEATURE(2.2, rb_hash_iter_lev);
+^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:13:14: note: expanded from macro 'DECLARE_DEPRECATED_FEATURE'
+    NORETURN(ERRORFUNC(("deprecated since "#ver), DEPRECATED(void func(void))))
+    ~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:160:43: note: expanded from macro 'ERRORFUNC'
+#define ERRORFUNC(mesg,x) __attribute__ ((__error__ mesg)) x
+                                          ^
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:149:52: note: expanded from macro 'NORETURN'
+#define NORETURN(x) __attribute__ ((__noreturn__)) x
+                                                   ^
+In file included from commonmarker.c:1:
+In file included from ./commonmarker.h:9:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby.h:33:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/ruby.h:2762:
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:21:1: warning: unknown attribute '__error__' ignored [-Wunknown-attributes]
+DECLARE_DEPRECATED_FEATURE(2.2, rb_hash_ifnone);
+^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:13:14: note: expanded from macro 'DECLARE_DEPRECATED_FEATURE'
+    NORETURN(ERRORFUNC(("deprecated since "#ver), DEPRECATED(void func(void))))
+    ~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:160:43: note: expanded from macro 'ERRORFUNC'
+#define ERRORFUNC(mesg,x) __attribute__ ((__error__ mesg)) x
+                                          ^
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:149:52: note: expanded from macro 'NORETURN'
+#define NORETURN(x) __attribute__ ((__noreturn__)) x
+                                                   ^
+In file included from commonmarker.c:1:
+In file included from ./commonmarker.h:9:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby.h:33:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/ruby.h:2762:
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:24:1: warning: unknown attribute '__error__' ignored [-Wunknown-attributes]
+DECLARE_DEPRECATED_FEATURE(2.2, rb_str_associate);
+^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:13:14: note: expanded from macro 'DECLARE_DEPRECATED_FEATURE'
+    NORETURN(ERRORFUNC(("deprecated since "#ver), DEPRECATED(void func(void))))
+    ~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:160:43: note: expanded from macro 'ERRORFUNC'
+#define ERRORFUNC(mesg,x) __attribute__ ((__error__ mesg)) x
+                                          ^
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:149:52: note: expanded from macro 'NORETURN'
+#define NORETURN(x) __attribute__ ((__noreturn__)) x
+                                                   ^
+In file included from commonmarker.c:1:
+In file included from ./commonmarker.h:9:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby.h:33:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/ruby.h:2762:
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:25:1: warning: unknown attribute '__error__' ignored [-Wunknown-attributes]
+DECLARE_DEPRECATED_FEATURE(2.2, rb_str_associated);
+^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:13:14: note: expanded from macro 'DECLARE_DEPRECATED_FEATURE'
+    NORETURN(ERRORFUNC(("deprecated since "#ver), DEPRECATED(void func(void))))
+    ~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:160:43: note: expanded from macro 'ERRORFUNC'
+#define ERRORFUNC(mesg,x) __attribute__ ((__error__ mesg)) x
+                                          ^
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:149:52: note: expanded from macro 'NORETURN'
+#define NORETURN(x) __attribute__ ((__noreturn__)) x
+                                                   ^
+In file included from commonmarker.c:1:
+In file included from ./commonmarker.h:9:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby.h:33:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/ruby.h:2762:
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:31:1: warning: unknown attribute '__error__' ignored [-Wunknown-attributes]
+DECLARE_DEPRECATED_FEATURE(2.2, rb_clear_cache);
+^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:13:14: note: expanded from macro 'DECLARE_DEPRECATED_FEATURE'
+    NORETURN(ERRORFUNC(("deprecated since "#ver), DEPRECATED(void func(void))))
+    ~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:160:43: note: expanded from macro 'ERRORFUNC'
+#define ERRORFUNC(mesg,x) __attribute__ ((__error__ mesg)) x
+                                          ^
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:149:52: note: expanded from macro 'NORETURN'
+#define NORETURN(x) __attribute__ ((__noreturn__)) x
+                                                   ^
+In file included from commonmarker.c:1:
+In file included from ./commonmarker.h:9:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby.h:33:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/ruby.h:2762:
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:32:1: warning: unknown attribute '__error__' ignored [-Wunknown-attributes]
+DECLARE_DEPRECATED_FEATURE(2.2, rb_frame_pop);
+^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:13:14: note: expanded from macro 'DECLARE_DEPRECATED_FEATURE'
+    NORETURN(ERRORFUNC(("deprecated since "#ver), DEPRECATED(void func(void))))
+    ~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:160:43: note: expanded from macro 'ERRORFUNC'
+#define ERRORFUNC(mesg,x) __attribute__ ((__error__ mesg)) x
+                                          ^
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:149:52: note: expanded from macro 'NORETURN'
+#define NORETURN(x) __attribute__ ((__noreturn__)) x
+                                                   ^
+In file included from commonmarker.c:1:
+In file included from ./commonmarker.h:9:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby.h:33:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/ruby.h:2762:
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:38:10: warning: unknown attribute '__error__' ignored [-Wunknown-attributes]
+NORETURN(ERRORFUNC(("internal function"), void rb_frozen_class_p(VALUE)));
+~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:160:43: note: expanded from macro 'ERRORFUNC'
+#define ERRORFUNC(mesg,x) __attribute__ ((__error__ mesg)) x
+                                          ^
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:149:52: note: expanded from macro 'NORETURN'
+#define NORETURN(x) __attribute__ ((__noreturn__)) x
+                                                   ^
+In file included from commonmarker.c:1:
+In file included from ./commonmarker.h:9:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby.h:33:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/ruby.h:2762:
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:39:1: warning: unknown attribute '__error__' ignored [-Wunknown-attributes]
+DECLARE_DEPRECATED_INTERNAL_FEATURE(rb_exec_end_proc);
+^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:35:14: note: expanded from macro 'DECLARE_DEPRECATED_INTERNAL_FEATURE'
+    NORETURN(ERRORFUNC(("deprecated internal function"), DEPRECATED(void func(void))))
+    ~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:160:43: note: expanded from macro 'ERRORFUNC'
+#define ERRORFUNC(mesg,x) __attribute__ ((__error__ mesg)) x
+                                          ^
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:149:52: note: expanded from macro 'NORETURN'
+#define NORETURN(x) __attribute__ ((__noreturn__)) x
+                                                   ^
+In file included from commonmarker.c:1:
+In file included from ./commonmarker.h:9:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby.h:33:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/ruby.h:2762:
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:42:1: warning: unknown attribute '__error__' ignored [-Wunknown-attributes]
+DECLARE_DEPRECATED_INTERNAL_FEATURE(rb_compile_error);
+^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:35:14: note: expanded from macro 'DECLARE_DEPRECATED_INTERNAL_FEATURE'
+    NORETURN(ERRORFUNC(("deprecated internal function"), DEPRECATED(void func(void))))
+    ~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:160:43: note: expanded from macro 'ERRORFUNC'
+#define ERRORFUNC(mesg,x) __attribute__ ((__error__ mesg)) x
+                                          ^
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:149:52: note: expanded from macro 'NORETURN'
+#define NORETURN(x) __attribute__ ((__noreturn__)) x
+                                                   ^
+In file included from commonmarker.c:1:
+In file included from ./commonmarker.h:9:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby.h:33:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/ruby.h:2762:
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:43:1: warning: unknown attribute '__error__' ignored [-Wunknown-attributes]
+DECLARE_DEPRECATED_INTERNAL_FEATURE(rb_compile_error_with_enc);
+^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:35:14: note: expanded from macro 'DECLARE_DEPRECATED_INTERNAL_FEATURE'
+    NORETURN(ERRORFUNC(("deprecated internal function"), DEPRECATED(void func(void))))
+    ~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:160:43: note: expanded from macro 'ERRORFUNC'
+#define ERRORFUNC(mesg,x) __attribute__ ((__error__ mesg)) x
+                                          ^
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:149:52: note: expanded from macro 'NORETURN'
+#define NORETURN(x) __attribute__ ((__noreturn__)) x
+                                                   ^
+In file included from commonmarker.c:1:
+In file included from ./commonmarker.h:9:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby.h:33:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/ruby.h:2762:
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:44:1: warning: unknown attribute '__error__' ignored [-Wunknown-attributes]
+DECLARE_DEPRECATED_INTERNAL_FEATURE(rb_compile_error_append);
+^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:35:14: note: expanded from macro 'DECLARE_DEPRECATED_INTERNAL_FEATURE'
+    NORETURN(ERRORFUNC(("deprecated internal function"), DEPRECATED(void func(void))))
+    ~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:160:43: note: expanded from macro 'ERRORFUNC'
+#define ERRORFUNC(mesg,x) __attribute__ ((__error__ mesg)) x
+                                          ^
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:149:52: note: expanded from macro 'NORETURN'
+#define NORETURN(x) __attribute__ ((__noreturn__)) x
+                                                   ^
+In file included from commonmarker.c:1:
+In file included from ./commonmarker.h:9:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby.h:33:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/ruby.h:2762:
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:47:1: warning: unknown attribute '__error__' ignored [-Wunknown-attributes]
+DECLARE_DEPRECATED_INTERNAL_FEATURE(rb_gc_call_finalizer_at_exit);
+^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:35:14: note: expanded from macro 'DECLARE_DEPRECATED_INTERNAL_FEATURE'
+    NORETURN(ERRORFUNC(("deprecated internal function"), DEPRECATED(void func(void))))
+    ~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:160:43: note: expanded from macro 'ERRORFUNC'
+#define ERRORFUNC(mesg,x) __attribute__ ((__error__ mesg)) x
+                                          ^
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:149:52: note: expanded from macro 'NORETURN'
+#define NORETURN(x) __attribute__ ((__noreturn__)) x
+                                                   ^
+In file included from commonmarker.c:1:
+In file included from ./commonmarker.h:9:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby.h:33:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/ruby.h:2762:
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:50:1: warning: unknown attribute '__error__' ignored [-Wunknown-attributes]
+DECLARE_DEPRECATED_INTERNAL_FEATURE(rb_trap_exit);
+^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:35:14: note: expanded from macro 'DECLARE_DEPRECATED_INTERNAL_FEATURE'
+    NORETURN(ERRORFUNC(("deprecated internal function"), DEPRECATED(void func(void))))
+    ~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:160:43: note: expanded from macro 'ERRORFUNC'
+#define ERRORFUNC(mesg,x) __attribute__ ((__error__ mesg)) x
+                                          ^
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:149:52: note: expanded from macro 'NORETURN'
+#define NORETURN(x) __attribute__ ((__noreturn__)) x
+                                                   ^
+In file included from commonmarker.c:1:
+In file included from ./commonmarker.h:9:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby.h:33:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/ruby.h:2762:
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:53:1: warning: unknown attribute '__error__' ignored [-Wunknown-attributes]
+DECLARE_DEPRECATED_INTERNAL_FEATURE(rb_struct_ptr);
+^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:35:14: note: expanded from macro 'DECLARE_DEPRECATED_INTERNAL_FEATURE'
+    NORETURN(ERRORFUNC(("deprecated internal function"), DEPRECATED(void func(void))))
+    ~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:160:43: note: expanded from macro 'ERRORFUNC'
+#define ERRORFUNC(mesg,x) __attribute__ ((__error__ mesg)) x
+                                          ^
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:149:52: note: expanded from macro 'NORETURN'
+#define NORETURN(x) __attribute__ ((__noreturn__)) x
+                                                   ^
+In file included from commonmarker.c:1:
+In file included from ./commonmarker.h:9:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby.h:33:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/ruby.h:2762:
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:56:1: warning: unknown attribute '__error__' ignored [-Wunknown-attributes]
+DECLARE_DEPRECATED_INTERNAL_FEATURE(rb_clear_trace_func);
+^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:35:14: note: expanded from macro 'DECLARE_DEPRECATED_INTERNAL_FEATURE'
+    NORETURN(ERRORFUNC(("deprecated internal function"), DEPRECATED(void func(void))))
+    ~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:160:43: note: expanded from macro 'ERRORFUNC'
+#define ERRORFUNC(mesg,x) __attribute__ ((__error__ mesg)) x
+                                          ^
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:149:52: note: expanded from macro 'NORETURN'
+#define NORETURN(x) __attribute__ ((__noreturn__)) x
+                                                   ^
+In file included from commonmarker.c:1:
+In file included from ./commonmarker.h:9:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby.h:33:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/ruby.h:2762:
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:59:1: warning: unknown attribute '__error__' ignored [-Wunknown-attributes]
+DECLARE_DEPRECATED_INTERNAL_FEATURE(rb_generic_ivar_table);
+^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:35:14: note: expanded from macro 'DECLARE_DEPRECATED_INTERNAL_FEATURE'
+    NORETURN(ERRORFUNC(("deprecated internal function"), DEPRECATED(void func(void))))
+    ~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:160:43: note: expanded from macro 'ERRORFUNC'
+#define ERRORFUNC(mesg,x) __attribute__ ((__error__ mesg)) x
+                                          ^
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:149:52: note: expanded from macro 'NORETURN'
+#define NORETURN(x) __attribute__ ((__noreturn__)) x
+                                                   ^
+In file included from commonmarker.c:1:
+In file included from ./commonmarker.h:9:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby.h:33:
+In file included from /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/ruby.h:2762:
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/ruby/backward.h:60:10: warning: unknown attribute '__error__' ignored [-Wunknown-attributes]
+NORETURN(ERRORFUNC(("internal function"), VALUE rb_mod_const_missing(VALUE, VALUE)));
+~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:160:43: note: expanded from macro 'ERRORFUNC'
+#define ERRORFUNC(mesg,x) __attribute__ ((__error__ mesg)) x
+                                          ^
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:149:52: note: expanded from macro 'NORETURN'
+#define NORETURN(x) __attribute__ ((__noreturn__)) x
+                                                   ^
+In file included from commonmarker.c:3:
+In file included from ./houdini.h:9:
+./config.h:8:9: warning: 'HAVE_STDBOOL_H' macro redefined [-Wmacro-redefined]
+#define HAVE_STDBOOL_H
+        ^
+/opt/homebrew/Cellar/ruby@2.7/2.7.8_1/include/ruby-2.7.0/arm64-darwin22/ruby/config.h:39:9: note: previous definition is here
+#define HAVE_STDBOOL_H 1
+        ^
+23 warnings generated.
+compiling core-extensions.c
+compiling ext_scanners.c
+compiling footnotes.c
+compiling houdini_href_e.c
+compiling houdini_html_e.c
+compiling houdini_html_u.c
+compiling html.c
+compiling inlines.c
+compiling iterator.c
+compiling latex.c
+compiling linked_list.c
+compiling man.c
+compiling map.c
+compiling node.c
+compiling plaintext.c
+compiling plugin.c
+compiling references.c
+compiling registry.c
+compiling render.c
+compiling scanners.c
+compiling strikethrough.c
+compiling syntax_extension.c
+compiling table.c
+compiling tagfilter.c
+compiling tasklist.c
+compiling utf8.c
+compiling xml.c
+linking shared-object commonmarker/commonmarker.bundle
+
+current directory: /Users/alexfan/projects/alexfanw.github.io/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.23.8/ext/commonmarker
+make DESTDIR\= sitearchdir\=./.gem.20230817-52647-76lssx sitelibdir\=./.gem.20230817-52647-76lssx install
+/usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20230817-52647-76lssx/commonmarker
+
+current directory: /Users/alexfan/projects/alexfanw.github.io/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.23.8/ext/commonmarker
+make DESTDIR\= sitearchdir\=./.gem.20230817-52647-76lssx sitelibdir\=./.gem.20230817-52647-76lssx clean
