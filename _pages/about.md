@@ -8,14 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently an MPhil student supervised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/). Before that, I got my B.Eng. degree in Computer Science from [Huazhong University of Science and Technology (HUST)](https://hust.edu.cn/) and M.Sc. degree in Big Data Technology from [HKUST]((https://hkust.edu.hk/)). Please feel free to contact me if you would like to discuss my research further. 
+Welcome! I'm a first-year MPhil student supervised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/). Before that, I got my B.Eng. degree in Computer Science from [Huazhong University of Science and Technology (HUST)](https://hust.edu.cn/) and M.Sc. degree in Big Data Technology from [HKUST]((https://hkust.edu.hk/)). Please feel free to contact me if you would like to discuss my research further. 
 
 ## Research Interest
 - Reinforcement Learning for Recommender System
-- Privacy in Deep Learning
+- Privacy in Language Model
 
+## Publications
+
+### Conference
+- **Multi-step Jailbreaking Privacy Attacks on ChatGPT**
+  Haoran Li, Dadi Guo, <font color="#000066">**Wei Fan**</font>, Mingshi Xu, Jie Huang, Fanpu Meng, Yangqiu Song
+  *In Findings of 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP)* [[paper]](https://arxiv.org/pdf/2304.05197.pdf)
+
+### Preprints
+
+- **Chain-of-Choice Hierarchical Policy Learning for Conversational Recommendation**
+  <font color="#000066">**Wei Fan**</font>, Weijia Zhang, Weiqi Wang, Yangqiu Song, Hao Liu
+  *Arxiv Preprint*, 2023.[[paper]](https://arxiv.org/pdf/2310.17922.pdf)[[code]](https://github.com/AlexFanw/CoCHPL)
 
 ## Education
+
 -  **Master of Philosophy · [HKUST](https://hkust.edu.hk/) · Computer Science · Sep.2023-Now**
 -  Master of Science · [HKUST](https://hkust.edu.hk/) · Big Data Technology · Sep.2022-Jul.2023
 -  Bachelor of Engineering · [HUST](https://hust.edu.cn/) · Computer Science · Sep.2017-Jun.2021
