@@ -19,7 +19,7 @@ Welcome! I'm a first-year MPhil student supervised by [Prof.Yangqiu Song](https:
 ### Conference
 - **Multi-step Jailbreaking Privacy Attacks on ChatGPT**
   Haoran Li, Dadi Guo, <font color="#000066">**Wei Fan**</font>, Mingshi Xu, Jie Huang, Fanpu Meng, Yangqiu Song
-  *In Findings of 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP)* [[paper]](https://arxiv.org/pdf/2304.05197.pdf)
+  *In Findings of 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP).* [[paper]](https://arxiv.org/pdf/2304.05197.pdf)
 
 ### Preprints
 
