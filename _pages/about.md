@@ -19,12 +19,12 @@ Welcome! I'm a first-year MPhil student supervised by [Prof.Yangqiu Song](https:
 **Conference**
 
 - **Multi-step Jailbreaking Privacy Attacks on ChatGPT**<br>Haoran Li, Dadi Guo, **<font color="#000066">Wei Fan</font>**, Mingshi Xu, Jie Huang, Fanpu Meng, Yangqiu Song
-<br>*Findings of Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP), 2023.* [[paper]](https://arxiv.org/pdf/2304.05197.pdf)
+<br>*Findings of Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP), 2023.* [[paper]](https://arxiv.org/abs/2304.05197)
 
 **Preprint**
 
 - **Chain-of-Choice Hierarchical Policy Learning for Conversational Recommendation**
-<br>**<font color="#000066">Wei Fan</font>**, Weijia Zhang, Weiqi Wang, Yangqiu Song, Hao Liu<br>*Arxiv Preprint*, 2023.[[paper]](https://arxiv.org/pdf/2310.17922.pdf)[[code]](https://github.com/AlexFanw/CoCHPL)
+<br>**<font color="#000066">Wei Fan</font>**, Weijia Zhang, Weiqi Wang, Yangqiu Song, Hao Liu<br>*Arxiv Preprint*, 2023.[[paper]](https://arxiv.org/abs/2310.17922)[[code]](https://github.com/AlexFanw/CoCHPL)
 
 ## Education
 
