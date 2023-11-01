@@ -26,6 +26,9 @@ Welcome! I'm a first-year MPhil student supervised by [Prof.Yangqiu Song](https:
 - **Chain-of-Choice Hierarchical Policy Learning for Conversational Recommendation**
 <br>**<font color="#000066">Wei Fan</font>**, Weijia Zhang, Weiqi Wang, Yangqiu Song, Hao Liu<br>*Arxiv Preprint*, 2023.[[paper]](https://arxiv.org/abs/2310.17922)[[code]](https://github.com/AlexFanw/CoCHPL)
 
+## Academic Service
+Conference Volunteer: IJCAI 2023
+
 ## Education
 
 -  **Master of Philosophy · [HKUST](https://hkust.edu.hk/) · Computer Science · Sep.2023-Now**
