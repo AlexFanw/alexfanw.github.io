@@ -15,7 +15,7 @@ My primary research focus lies in large language models and large-scale knowledg
 
 ## Publications
 
-#### **Conference**
+### **Conference**
 - **Chain-of-Choice Hierarchical Policy Learning for Conversational Recommendation**
   <br>**<font color="#000066">Wei Fan</font>**, Weijia Zhang, Weiqi Wang, Yangqiu Song, Hao Liu
   <br>*Proceedings of Database Systems for Advanced Applications - 29th International Conference (DASFAA) 2024.*
@@ -26,7 +26,12 @@ My primary research focus lies in large language models and large-scale knowledg
   <br>*Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2023.*
   <br>[[paper]](https://arxiv.org/abs/2304.05197)[[code]](https://github.com/HKUST-KnowComp/LLM-Multistep-Jailbreak)
 
-#### **Preprint**
+### **Preprint**
+- **AbsInstruct: Eliciting Abstraction Ability from LLMs through Explanation Tuning with Plausibility Estimation**
+  <br>Zhaowei Wang, **<font color="#000066">Wei Fan</font>**, Qing Zong, Hongming Zhang, Sehyun Choi, Tianqing Fang, Xin Liu, Yangqiu Song, Ginny Y. Wong, Simon See
+  <br>*Arxiv Preprint 2023.*
+  <br>[[paper]](https://arxiv.org/abs/2402.10646)
+
 - **P-Bench: A Multi-level Privacy Evaluation Benchmark for Language Models**
   <br>Haoran Li, Dadi Guo, Donghao Li, **<font color="#000066">Wei Fan</font>**, Qi Hu, Xin Liu, Chunkit Chan, Duanyi Yao, Yangqiu Song
   <br>*Arxiv Preprint 2023.*
