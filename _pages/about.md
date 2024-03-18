@@ -29,7 +29,7 @@ My primary research focus lies in large language models and large-scale knowledg
 ### **Preprint**
 - **AbsInstruct: Eliciting Abstraction Ability from LLMs through Explanation Tuning with Plausibility Estimation**
   <br>Zhaowei Wang, **<font color="#000066">Wei Fan</font>**, Qing Zong, Hongming Zhang, Sehyun Choi, Tianqing Fang, Xin Liu, Yangqiu Song, Ginny Y. Wong, Simon See
-  <br>*Arxiv Preprint 2023.*
+  <br>*Arxiv Preprint 2024.*
   <br>[[paper]](https://arxiv.org/abs/2402.10646)
 
 - **P-Bench: A Multi-level Privacy Evaluation Benchmark for Language Models**
