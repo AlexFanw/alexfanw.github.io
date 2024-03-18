@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wei Fan"
+title: "Wei FAN"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,28 +11,30 @@ redirect_from:
 Welcome! I'm a first-year MPhil student supervised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/). Before that, I got my B.Eng. degree in Computer Science from [Huazhong University of Science and Technology (HUST)](https://hust.edu.cn/) and M.Sc. degree in Big Data Technology from [HKUST]((https://hkust.edu.hk/)). Please feel free to contact me if you would like to discuss my research further.
 
 ## Research Interest
-- Privacy in Large Language Model
-- Conversational Recommender System
+My primary research focus lies in large language models and large-scale knowledge graphs. Additionally, I have a keen interest in the fields of privacy and recommender systems.
 
 ## Publications
 
-**Conference**
-
-- **Multi-step Jailbreaking Privacy Attacks on ChatGPT**<br>Haoran Li, Dadi Guo, **<font color="#000066">Wei Fan</font>**, Mingshi Xu, Jie Huang, Fanpu Meng, Yangqiu Song
-<br>*Findings of Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP), 2023.* [[paper]](https://arxiv.org/abs/2304.05197)
-
-**Preprint**
-
+#### **Conference**
 - **Chain-of-Choice Hierarchical Policy Learning for Conversational Recommendation**
-  <br>**<font color="#000066">Wei Fan</font>**, Weijia Zhang, Weiqi Wang, Yangqiu Song, Hao Liu<br>*Arxiv Preprint*, 2023.[[paper]](https://arxiv.org/abs/2310.17922)[[code]](https://github.com/AlexFanw/CoCHPL)
+  <br>**<font color="#000066">Wei Fan</font>**, Weijia Zhang, Weiqi Wang, Yangqiu Song, Hao Liu
+  <br>*Proceedings of Database Systems for Advanced Applications - 29th International Conference (DASFAA) 2024.*
+  <br>[[paper]](https://arxiv.org/abs/2310.17922)[[code]](https://github.com/AlexFanw/CoCHPL)
 
+- **Multi-step Jailbreaking Privacy Attacks on ChatGPT**
+  <br>Haoran Li, Dadi Guo, **<font color="#000066">Wei Fan</font>**, Mingshi Xu, Jie Huang, Fanpu Meng, Yangqiu Song
+  <br>*Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2023.*
+  <br>[[paper]](https://arxiv.org/abs/2304.05197)[[code]](https://github.com/HKUST-KnowComp/LLM-Multistep-Jailbreak)
+
+#### **Preprint**
 - **P-Bench: A Multi-level Privacy Evaluation Benchmark for Language Models**
-  <br>Haoran Li, Dadi Guo, Donghao Li, **<font color="#000066">Wei Fan</font>**, Qi Hu, Xin Liu, Chunkit Chan, Duanyi Yao, Yangqiu Song<br>*Arxiv Preprint*, 2023.[[paper]](https://arxiv.org/abs/2311.04044)
+  <br>Haoran Li, Dadi Guo, Donghao Li, **<font color="#000066">Wei Fan</font>**, Qi Hu, Xin Liu, Chunkit Chan, Duanyi Yao, Yangqiu Song
+  <br>*Arxiv Preprint 2023.*
+  <br>[[paper]](https://arxiv.org/abs/2311.04044)
 
 ## Academic Service
-Program Committee Reviewer: NAACL(2024)
-
-Conference Volunteer: IJCAI(2023)
+Program Committee Reviewer: NAACL (2024)
+<br>Conference Volunteer: IJCAI (2023)
 
 ## Teaching
 - COMP 1021 · Introduction to Computer Science · Spring 2024
