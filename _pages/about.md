@@ -20,7 +20,7 @@ My primary research focus lies in large language models and large-scale knowledg
 #### **Conference**
 - **Chain-of-Choice Hierarchical Policy Learning for Conversational Recommendation**
   <br>**<font color="#000066">Wei Fan</font>**, Weijia Zhang, Weiqi Wang, Yangqiu Song, Hao Liu
-  <br>*Conference on Database Systems for Advanced Applications - 29th International Conference (DASFAA) 2024.*
+  <br>*Conference on Database Systems for Advanced Applications (DASFAA) 2024.*
   <br>[[paper]](https://arxiv.org/abs/2310.17922)[[code]](https://github.com/AlexFanw/CoCHPL)
 
 - **Multi-step Jailbreaking Privacy Attacks on ChatGPT**
