@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a first-year MPhil student supervised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/). Before that, I got my B.Eng. degree in Computer Science from [Huazhong University of Science and Technology (HUST)](https://hust.edu.cn/) and M.Sc. degree in Big Data Technology from [HKUST]((https://hkust.edu.hk/)). Please feel free to contact me if you would like to discuss my research further.
+Welcome! I'm a first-year M.Phil. student supervised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/). Before that, I got my B.Eng. degree in Computer Science from [Huazhong University of Science and Technology (HUST)](https://hust.edu.cn/) and M.Sc. degree in Big Data Technology from [HKUST]((https://hkust.edu.hk/)). Please feel free to contact me if you would like to discuss my research further.
+
+**I will continue my Ph.D. at HKUST for further research!**
 
 ## Research Interest
 My primary research focus lies in large language models and large-scale knowledge graphs. Additionally, I have a keen interest in the fields of privacy and recommender systems.
 
 ## Publications
 
-### **Conference**
+#### **Conference**
 - **Chain-of-Choice Hierarchical Policy Learning for Conversational Recommendation**
   <br>**<font color="#000066">Wei Fan</font>**, Weijia Zhang, Weiqi Wang, Yangqiu Song, Hao Liu
-  <br>*Proceedings of Database Systems for Advanced Applications - 29th International Conference (DASFAA) 2024.*
+  <br>*Conference on Database Systems for Advanced Applications - 29th International Conference (DASFAA) 2024.*
   <br>[[paper]](https://arxiv.org/abs/2310.17922)[[code]](https://github.com/AlexFanw/CoCHPL)
 
 - **Multi-step Jailbreaking Privacy Attacks on ChatGPT**
@@ -26,7 +28,7 @@ My primary research focus lies in large language models and large-scale knowledg
   <br>*Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2023.*
   <br>[[paper]](https://arxiv.org/abs/2304.05197)[[code]](https://github.com/HKUST-KnowComp/LLM-Multistep-Jailbreak)
 
-### **Preprint**
+#### **Preprint**
 - **AbsInstruct: Eliciting Abstraction Ability from LLMs through Explanation Tuning with Plausibility Estimation**
   <br>Zhaowei Wang, **<font color="#000066">Wei Fan</font>**, Qing Zong, Hongming Zhang, Sehyun Choi, Tianqing Fang, Xin Liu, Yangqiu Song, Ginny Y. Wong, Simon See
   <br>*Arxiv Preprint 2024.*
@@ -53,9 +55,8 @@ Program Committee Reviewer: NAACL (2024)
 -  Summer School · [UoM](https://www.manchester.ac.uk/) · Computer Science · Jul.2019-Aug.2019
 
 ## Work Experience
-- Research Intern · HUAWEI · Hong Kong · Feb.2024-Now
+- **Research Intern · [HUAWEI](https://career.huawei.com) · Hong Kong Theory Lab · Feb.2024-Now**
 - Research Assistant · [HKUST (GZ)](https://hkust-gz.edu.cn/) · [Hao Liu](https://raymondhliu.github.io/) · May.2022-Feb.2023
-- Research Intern · [HUST](https://hust.edu.cn/) · [CCIIP](http://cciip.cs.hust.edu.cn/) · Jan.2021-Jun.2021
 - Software Engineer · [ByteDance](https://www.bytedance.com) · Jul.2021-May.2022
 - Software Engineer Intern · [ByteDance](https://www.bytedance.com) · Jun.2020-Dec.2020
 
