@@ -29,11 +29,18 @@ My primary research focus lies in large language models and large-scale knowledg
   <br>[[paper]](https://arxiv.org/abs/2304.05197)[[code]](https://github.com/HKUST-KnowComp/LLM-Multistep-Jailbreak)
 
 #### **Preprint**
+- **Text-Tuple-Table: Towards Information Integration in Text-to-Table Generation via Global Tuple Extraction**
+<br>Zheye Deng, Chunkit Chan, Weiqi Wang, Yuxi Sun, **<font color="#000066">Wei Fan</font>**, Tianshi Zheng, Yauwai Yim, Yangqiu Song
+<br>*Arxiv Preprint 2024.*
+<br>[[paper]](https://arxiv.org/abs/2404.14215)
+- **NegotiationToM: A Benchmark for Stress-testing Machine Theory of Mind on Negotiation Surrounding**
+<br>Chunkit Chan, Cheng Jiayang, Yauwai Yim, Zheye Deng, **<font color="#000066">Wei Fan</font>**, Haoran Li, Xin Liu, Hongming Zhang, Weiqi Wang, Yangqiu Song
+<br>*Arxiv Preprint 2024.*
+<br>[[paper]](https://arxiv.org/abs/2404.13627)
 - **AbsInstruct: Eliciting Abstraction Ability from LLMs through Explanation Tuning with Plausibility Estimation**
   <br>Zhaowei Wang, **<font color="#000066">Wei Fan</font>**, Qing Zong, Hongming Zhang, Sehyun Choi, Tianqing Fang, Xin Liu, Yangqiu Song, Ginny Y. Wong, Simon See
   <br>*Arxiv Preprint 2024.*
   <br>[[paper]](https://arxiv.org/abs/2402.10646)
-
 - **P-Bench: A Multi-level Privacy Evaluation Benchmark for Language Models**
   <br>Haoran Li, Dadi Guo, Donghao Li, **<font color="#000066">Wei Fan</font>**, Qi Hu, Xin Liu, Chunkit Chan, Duanyi Yao, Yangqiu Song
   <br>*Arxiv Preprint 2023.*
