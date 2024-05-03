@@ -64,11 +64,5 @@ Program Committee Reviewer: NAACL (2024)
 -  Bachelor of Engineering · [HUST](https://hust.edu.cn/) · Computer Science · Sep.2017-Jun.2021
 -  Summer School · [UoM](https://www.manchester.ac.uk/) · Computer Science · Jul.2019-Aug.2019
 
-## Work Experience
-- **Research Intern · [HUAWEI](https://career.huawei.com) · Hong Kong Theory Lab · Feb.2024-Now**
-- Research Assistant · [HKUST (GZ)](https://hkust-gz.edu.cn/) · [Hao Liu](https://raymondhliu.github.io/) · May.2022-Feb.2023
-- Software Engineer · [ByteDance](https://www.bytedance.com) · Jul.2021-May.2022
-- Software Engineer Intern · [ByteDance](https://www.bytedance.com) · Jun.2020-Dec.2020
-
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=m&d=JH7LPAxuPOUwmpB8ZB01Fa168e4WMQg10LG3FtRaggk&co=4b98ce&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
