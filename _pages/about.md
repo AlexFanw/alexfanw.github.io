@@ -8,19 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a first-year M.Phil. student supervised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/). Before that, I got my B.Eng. degree in Computer Science from [Huazhong University of Science and Technology (HUST)](https://hust.edu.cn/) and M.Sc. degree in Big Data Technology from [HKUST]((https://hkust.edu.hk/)). Please feel free to contact me if you would like to discuss my research further.
-
-**I will continue my Ph.D. at HKUST for further research!**
+Welcome! I'm a Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/). Before that, I got my B.Eng. degree in Computer Science from [Huazhong University of Science and Technology (HUST)](https://hust.edu.cn/) and M.Sc. degree in Big Data Technology from [HKUST]((https://hkust.edu.hk/)). Please feel free to contact me if you would like to discuss my research further.
 
 ## Research Interest
-My primary research focus lies in large language models and large-scale knowledge graphs. Additionally, I have a keen interest in the fields of privacy and recommender systems.
+My primary research focus lies in large language models and large-scale knowledge graphs. Additionally, I am keenly interested in privacy and recommender systems.
 
 ## Publications
 
 **[Conference]**
 - **Chain-of-Choice Hierarchical Policy Learning for Conversational Recommendation**
   <br>**<font color="#000066">Wei Fan</font>**, Weijia Zhang, Weiqi Wang, Yangqiu Song, Hao Liu
-  <br>*Conference on Database Systems for Advanced Applications (DASFAA) 2024.*
+  <br>*Conference on Database Systems for Advanced Applications (DASFAA) 2024.* ***<font color="#FF0000">Oral</font>***
   <br>[[paper]](https://arxiv.org/abs/2310.17922)[[code]](https://github.com/AlexFanw/CoCHPL)
 - **AbsInstruct: Eliciting Abstraction Ability from LLMs through Explanation Tuning with Plausibility Estimation**
   <br>Zhaowei Wang, **<font color="#000066">Wei Fan</font>**, Qing Zong, Hongming Zhang, Sehyun Choi, Tianqing Fang, Xin Liu, Yangqiu Song, Ginny Y. Wong, Simon See
@@ -55,7 +53,7 @@ Program Committee Reviewer: NAACL (2024)
 
 ## Education
 
--  **Master of Philosophy · [HKUST](https://hkust.edu.hk/) · Computer Science · Sep.2023-Now**
+-  **Doctor of Philosophy · [HKUST](https://hkust.edu.hk/) · Computer Science · Sep.2023-Now**
 -  Master of Science · [HKUST](https://hkust.edu.hk/) · Big Data Technology · Sep.2022-Jul.2023
 -  Bachelor of Engineering · [HUST](https://hust.edu.cn/) · Computer Science · Sep.2017-Jun.2021
 -  Summer School · [UoM](https://www.manchester.ac.uk/) · Computer Science · Jul.2019-Aug.2019
