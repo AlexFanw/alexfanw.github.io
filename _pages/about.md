@@ -23,17 +23,22 @@ My primary research focus lies in large language models and large-scale knowledg
 - **AbsInstruct: Eliciting Abstraction Ability from LLMs through Explanation Tuning with Plausibility Estimation**
   <br>Zhaowei Wang, **<font color="#000066">Wei Fan</font>**, Qing Zong, Hongming Zhang, Sehyun Choi, Tianqing Fang, Xin Liu, Yangqiu Song, Ginny Y. Wong, Simon See
   <br>*Conference on Association for Computational Linguistics (ACL) 2024.*
-  <br>[[paper]](https://arxiv.org/abs/2402.10646)
-- **Multi-step Jailbreaking Privacy Attacks on ChatGPT**
-  <br>Haoran Li, Dadi Guo, **<font color="#000066">Wei Fan</font>**, Mingshi Xu, Jie Huang, Fanpu Meng, Yangqiu Song
-  <br>*Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2023.*
-  <br>[[paper]](https://arxiv.org/abs/2304.05197)[[code]](https://github.com/HKUST-KnowComp/LLM-Multistep-Jailbreak)
+  <br>[[paper]](https://arxiv.org/abs/2402.10646)[[code]](https://github.com/HKUST-KnowComp/AbsInstruct)
 - **P-Bench: A Multi-level Privacy Evaluation Benchmark for Language Models**
-  <br>Haoran Li, Dadi Guo, Donghao Li, **<font color="#000066">Wei Fan</font>**, Qi Hu, Xin Liu, Chunkit Chan, Duanyi Yao, Yangqiu Song
+  <br>Haoran Li$^*$, Dadi Guo$^*$, Donghao Li$^*$, **<font color="#000066">Wei Fan</font>**, Qi Hu, Xin Liu, Chunkit Chan, Duanyi Yao, Yangqiu Song
   <br>*Conference on Association for Computational Linguistics (ACL) 2024.*
   <br>[[paper]](https://arxiv.org/abs/2311.04044)
+- **Multi-step Jailbreaking Privacy Attacks on ChatGPT**
+  <br>Haoran Li$^*$, Dadi Guo$^*$, **<font color="#000066">Wei Fan</font>**, Mingshi Xu, Jie Huang, Fanpu Meng, Yangqiu Song
+  <br>*Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2023.*
+  <br>[[paper]](https://arxiv.org/abs/2304.05197)[[code]](https://github.com/HKUST-KnowComp/LLM-Multistep-Jailbreak)
+
 
 **[Preprint]**
+- **GoldCoin: Grounding Large Language Models in Privacy Laws via Contextual Integrity Theory**
+  <br>**<font color="#000066">Wei Fan</font>**$^*$, Haoran Li$^*$, Zheye Deng, Weiqi Wang, Yangqiu Song
+  <br>*Arxiv Preprint 2024.*
+  <br>[[paper]](https://arxiv.org/abs/2406.11149)
 - **Text-Tuple-Table: Towards Information Integration in Text-to-Table Generation via Global Tuple Extraction**
   <br>Zheye Deng, Chunkit Chan, Weiqi Wang, Yuxi Sun, **<font color="#000066">Wei Fan</font>**, Tianshi Zheng, Yauwai Yim, Yangqiu Song
   <br>*Arxiv Preprint 2024.*
