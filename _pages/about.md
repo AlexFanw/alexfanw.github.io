@@ -25,18 +25,18 @@ My primary research focus lies in large language models and large-scale knowledg
   <br>*Conference on Association for Computational Linguistics (ACL) 2024.*
   <br>[[paper]](https://arxiv.org/abs/2402.10646)[[code]](https://github.com/HKUST-KnowComp/AbsInstruct)
 - **P-Bench: A Multi-level Privacy Evaluation Benchmark for Language Models**
-  <br>Haoran Li$^*$, Dadi Guo$^*$, Donghao Li$^*$, **<font color="#000066">Wei Fan</font>**, Qi Hu, Xin Liu, Chunkit Chan, Duanyi Yao, Yangqiu Song
+  <br>Haoran Li\*, Dadi Guo\*, Donghao Li\*, **<font color="#000066">Wei Fan</font>**, Qi Hu, Xin Liu, Chunkit Chan, Duanyi Yao, Yangqiu Song
   <br>*Conference on Association for Computational Linguistics (ACL) 2024.*
   <br>[[paper]](https://arxiv.org/abs/2311.04044)
 - **Multi-step Jailbreaking Privacy Attacks on ChatGPT**
-  <br>Haoran Li$^*$, Dadi Guo$^*$, **<font color="#000066">Wei Fan</font>**, Mingshi Xu, Jie Huang, Fanpu Meng, Yangqiu Song
+  <br>Haoran Li\*, Dadi Guo\*, **<font color="#000066">Wei Fan</font>**, Mingshi Xu, Jie Huang, Fanpu Meng, Yangqiu Song
   <br>*Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2023.*
   <br>[[paper]](https://arxiv.org/abs/2304.05197)[[code]](https://github.com/HKUST-KnowComp/LLM-Multistep-Jailbreak)
 
 
 **[Preprint]**
 - **GoldCoin: Grounding Large Language Models in Privacy Laws via Contextual Integrity Theory**
-  <br>**<font color="#000066">Wei Fan</font>**$^*$, Haoran Li$^*$, Zheye Deng, Weiqi Wang, Yangqiu Song
+  <br>**<font color="#000066">Wei Fan*</font>**, Haoran Li\*, Zheye Deng, Weiqi Wang, Yangqiu Song
   <br>*Arxiv Preprint 2024.*
   <br>[[paper]](https://arxiv.org/abs/2406.11149)
 - **Text-Tuple-Table: Towards Information Integration in Text-to-Table Generation via Global Tuple Extraction**
