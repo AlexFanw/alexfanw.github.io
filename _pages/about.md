@@ -35,6 +35,8 @@ My primary research focus lies in large language models and large-scale knowledg
   <br>*Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2023.*
   <br>[[paper]](https://arxiv.org/abs/2304.05197)[[code]](https://github.com/HKUST-KnowComp/LLM-Multistep-Jailbreak)
 
+
+
 **[Preprint]**
 
 - **GoldCoin: Grounding Large Language Models in Privacy Laws via Contextual Integrity Theory**
@@ -58,7 +60,7 @@ My primary research focus lies in large language models and large-scale knowledg
   <br>[[paper]](https://arxiv.org/abs/2404.13627)
 
 ## Academic Service
-Program Committee Reviewer: NAACL (2024)
+Program Committee Reviewer: NAACL (2024), EMNLP (2024)
 <br>Conference Volunteer: IJCAI (2023)
 
 ## Teaching
