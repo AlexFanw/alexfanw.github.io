@@ -38,22 +38,18 @@ My primary research focus lies in large language models and large-scale knowledg
 
 
 **[Preprint]**
-
 - **GoldCoin: Grounding Large Language Models in Privacy Laws via Contextual Integrity Theory**
   <br>**<font color="#000066">Wei Fan*</font>**, Haoran Li\*, Zheye Deng, Weiqi Wang, Yangqiu Song
   <br>*Arxiv Preprint 2024.*
   <br>[[paper]](https://arxiv.org/abs/2406.11149)
-  
 - **On the Role of Entity and Event Level Conceptualization in Generalizable Reasoning: A Survey of Tasks, Methods, Applications, and Future Directions**
   <br>Weiqi Wang, Tianqing Fang, Haochen Shi, Baixuan Xu, Wenxuan Ding, Liyu Zhang, **<font color="#000066">Wei Fan</font>**, Jiaxin Bai, Haoran Li, Xin Liu, Yangqiu Song.
   <br>*Arxiv Preprint 2024.*
   <br>[[paper]](https://arxiv.org/pdf/2406.10885)
-  
 - **Text-Tuple-Table: Towards Information Integration in Text-to-Table Generation via Global Tuple Extraction**
   <br>Zheye Deng, Chunkit Chan, Weiqi Wang, Yuxi Sun, **<font color="#000066">Wei Fan</font>**, Tianshi Zheng, Yauwai Yim, Yangqiu Song
   <br>*Arxiv Preprint 2024.*
   <br>[[paper]](https://arxiv.org/abs/2404.14215)
-  
 - **NegotiationToM: A Benchmark for Stress-testing Machine Theory of Mind on Negotiation Surrounding**
   <br>Chunkit Chan, Cheng Jiayang, Yauwai Yim, Zheye Deng, **<font color="#000066">Wei Fan</font>**, Haoran Li, Xin Liu, Hongming Zhang, Weiqi Wang, Yangqiu Song
   <br>*Arxiv Preprint 2024.*
