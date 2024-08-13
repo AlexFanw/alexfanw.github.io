@@ -11,7 +11,7 @@ redirect_from:
 Welcome! I'm a Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/). Before that, I got my B.Eng. degree in Computer Science from [Huazhong University of Science and Technology (HUST)](https://hust.edu.cn/) and M.Sc. in Big Data Technology from [HKUST]((https://hkust.edu.hk/)). Please feel free to contact me if you would like to discuss my research further.
 
 ## Research Interest
-My primary research focus lies in large language models and large-scale knowledge graphs. Additionally, I am keenly interested in privacy and recommender systems.
+My primary research focus is on large language models and large-scale knowledge graphs. Currently, I am concentrating on the theory and application of legal NLP.
 
 ## Publications
 
@@ -38,6 +38,7 @@ My primary research focus lies in large language models and large-scale knowledg
 
 
 **[Preprint]**
+
 - **GoldCoin: Grounding Large Language Models in Privacy Laws via Contextual Integrity Theory**
   <br>**<font color="#000066">Wei Fan*</font>**, Haoran Li\*, Zheye Deng, Weiqi Wang, Yangqiu Song
   <br>*Arxiv Preprint 2024.*
@@ -54,6 +55,10 @@ My primary research focus lies in large language models and large-scale knowledg
   <br>Chunkit Chan, Cheng Jiayang, Yauwai Yim, Zheye Deng, **<font color="#000066">Wei Fan</font>**, Haoran Li, Xin Liu, Hongming Zhang, Weiqi Wang, Yangqiu Song
   <br>*Arxiv Preprint 2024.*
   <br>[[paper]](https://arxiv.org/abs/2404.13627)
+- **Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information**
+  <br>Yauwai Yim, Chunkit Chan, Tianyu Shi, Zheye Deng, **<font color="#000066">Wei Fan</font>**, Tianshi Zheng, Yangqiu Song
+  <br>*Arxiv Preprint 2024.*
+  <br>[[paper]](https://arxiv.org/abs/2408.02559)
 
 ## Academic Service
 Program Committee Reviewer: NAACL (2024), EMNLP (2024)
