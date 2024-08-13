@@ -26,9 +26,9 @@ My primary research focus is on large language models and large-scale knowledge 
   <br>Zhaowei Wang, **<font color="#000066">Wei Fan</font>**, Qing Zong, Hongming Zhang, Sehyun Choi, Tianqing Fang, Xin Liu, Yangqiu Song, Ginny Y. Wong, Simon See
   <br>*Conference on Association for Computational Linguistics (ACL) 2024.*
   <br>[[paper]](https://arxiv.org/abs/2402.10646)[[code]](https://github.com/HKUST-KnowComp/AbsInstruct)
-- **P-Bench: A Multi-level Privacy Evaluation Benchmark for Language Models**
+- **PrivLM-Bench: A Multi-level Privacy Evaluation Benchmark for Language Models**
   <br>Haoran Li\*, Dadi Guo\*, Donghao Li\*, **<font color="#000066">Wei Fan</font>**, Qi Hu, Xin Liu, Chunkit Chan, Duanyi Yao, Yangqiu Song
-  <br>*Conference on Association for Computational Linguistics (ACL) 2024.*
+  <br>*Conference on Association for Computational Linguistics (ACL) 2024.* ***<font color="#FF0000">Oral</font>***
   <br>[[paper]](https://arxiv.org/abs/2311.04044)
 - **Multi-step Jailbreaking Privacy Attacks on ChatGPT**
   <br>Haoran Li\*, Dadi Guo\*, **<font color="#000066">Wei Fan</font>**, Mingshi Xu, Jie Huang, Fanpu Meng, Yangqiu Song
