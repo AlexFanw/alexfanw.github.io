@@ -59,14 +59,19 @@ My primary research focus is on large language models and large-scale knowledge 
   <br>Yauwai Yim, Chunkit Chan, Tianyu Shi, Zheye Deng, **<font color="#000066">Wei Fan</font>**, Tianshi Zheng, Yangqiu Song
   <br>*Arxiv Preprint 2024.*
   <br>[[paper]](https://arxiv.org/abs/2408.02559)
+- **Privacy Checklist: Privacy Violation Detection Grounding on Contextual Integrity Theory**
+  <br>Haoran Li\*, **<font color="#000066">Wei Fan*</font>**, Yulin Chen, Jiayang Cheng, Tianshu Chu, Xuebing Zhou, Peizhao Hu, Yangqiu Song
+  <br>*Arxiv Preprint 2024.*
+  <br>[[paper]](https://arxiv.org/abs/2408.10053)
 
 ## Academic Service
-Program Committee Reviewer: NAACL (2024), EMNLP (2024)
+Conference Reviewer: ACL Rolling Review (2023 - Now)
 <br>Conference Volunteer: IJCAI (2023)
 
 ## Teaching
-- COMP 1021 · Introduction to Computer Science · Spring 2024
-- CSIT 6000R · Natural Language Processing · Spring 2024
+- COMP 42222: Machine Learning with Structured Data (Fall 2024)
+- COMP 1021: Introduction to Computer Science (Spring 2024)
+- CSIT 6000R: Natural Language Processing (Spring 2024)
 
 ## Education
 
