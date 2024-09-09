@@ -69,7 +69,7 @@ Conference Reviewer: ACL Rolling Review (2023 - Now)
 <br>Conference Volunteer: IJCAI (2023)
 
 ## Teaching
-- COMP 42222: Machine Learning with Structured Data (Fall 2024)
+- COMP 4222: Machine Learning with Structured Data (Fall 2024)
 - COMP 1021: Introduction to Computer Science (Spring 2024)
 - CSIT 6000R: Natural Language Processing (Spring 2024)
 
