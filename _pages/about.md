@@ -12,11 +12,15 @@ Welcome! I'm a Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.u
 
 ## News
 
-- Sep 2024: Three papers are accepted by EMNLP 2024. Topics cover legal alignment, theory of mind, and text-to-table summarization. See you in Miami!
-- May 2024: Two papers are accepted by ACL 2024. Topics cover abstract knowledge and differential privacy. See you in Thailand!
-- Mar 2024: One paper is accepted by DASFAA 2024. Topics cover hierarchical reinforcement learning and conversational recommendation. Welcome to my oral presentation in Gifu, Japan.
-- Oct 2023: One paper is accepted by EMNLP 2023. See you in Singapore.
-- Aug 2023: Attending IJCAI 2023 at Macao as a student volunteer.
+[Sep 2024] Three papers are accepted by EMNLP 2024. Topics cover legal alignment, theory of mind, and text-to-table summarization. See you in Miami!
+
+[May 2024] Two papers are accepted by ACL 2024. Topics cover abstract knowledge and differential privacy. See you in Thailand!
+
+[Mar 2024] One paper is accepted by DASFAA 2024. Topics cover hierarchical reinforcement learning and conversational recommendation. Welcome to my oral presentation in Gifu, Japan.
+
+[Oct 2023] One paper is accepted by EMNLP 2023. See you in Singapore.
+
+[Aug 2023] Attending IJCAI 2023 at Macao as a student volunteer.
 
 ## Research Interest
 
