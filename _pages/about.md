@@ -64,7 +64,10 @@ My primary research focus is on **retrieval** and **logical reasoning**, with a 
 
 
 **[Preprint]**
-
+- **Meta-Transfer Learning Empowered Temporal Graph Networks for Cross-City Real Estate Appraisal**
+  <br>Weijia Zhang, Jindong Han, Hao Liu, **<font color="#000066">Wei Fan</font>**, Hao Wang, Hui Xiong.
+  <br>*Arxiv Preprint 2024.*
+  <br>[[paper]](https://www.arxiv.org/abs/2410.08947)
 - **On the Role of Entity and Event Level Conceptualization in Generalizable Reasoning: A Survey of Tasks, Methods, Applications, and Future Directions**
   <br>Weiqi Wang, Tianqing Fang, Haochen Shi, Baixuan Xu, Wenxuan Ding, Liyu Zhang, **<font color="#000066">Wei Fan</font>**, Jiaxin Bai, Haoran Li, Xin Liu, Yangqiu Song.
   <br>*Arxiv Preprint 2024.*
