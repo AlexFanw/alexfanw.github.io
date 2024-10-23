@@ -31,7 +31,7 @@ My primary research focus is on **retrieval** and **logical reasoning**, with a 
 - **GoldCoin: Grounding Large Language Models in Privacy Laws via Contextual Integrity Theory**
   <br>**<font color="#000066">Wei Fan*</font>**, Haoran Li\*, Zheye Deng, Weiqi Wang, Yangqiu Song
   <br>*Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024.* ***<font color="#FF0000">Oral</font>***
-  <br>[[paper]](https://arxiv.org/abs/2406.11149)
+  <br>[[paper]](https://arxiv.org/abs/2406.11149)[[code]](https://github.com/HKUST-KnowComp/GoldCoin)
 - **Chain-of-Choice Hierarchical Policy Learning for Conversational Recommendation**
   <br>**<font color="#000066">Wei Fan</font>**, Weijia Zhang, Weiqi Wang, Yangqiu Song, Hao Liu
   <br>*Conference on Database Systems for Advanced Applications (DASFAA) 2024.* ***<font color="#FF0000">Oral</font>***
