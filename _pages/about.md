@@ -57,10 +57,6 @@ My primary research focus is on **retrieval** and **logical reasoning**, with a 
   <br>Yauwai Yim, Chunkit Chan, Tianyu Shi, Zheye Deng, **<font color="#000066">Wei Fan</font>**, Tianshi Zheng, Yangqiu Song
   <br>*Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT) 2024.*
   <br>[[paper]](https://arxiv.org/abs/2408.02559)
-- **Multi-step Jailbreaking Privacy Attacks on ChatGPT**
-  <br>Haoran Li\*, Dadi Guo\*, **<font color="#000066">Wei Fan</font>**, Mingshi Xu, Jie Huang, Fanpu Meng, Yangqiu Song
-  <br>*Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2023.*
-  <br>[[paper]](https://arxiv.org/abs/2304.05197)[[code]](https://github.com/HKUST-KnowComp/LLM-Multistep-Jailbreak)
 
 
 
