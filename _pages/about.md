@@ -11,7 +11,7 @@ redirect_from:
 Welcome! I'm a Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/). Before that, I got my B.Eng. degree in Computer Science from [Huazhong University of Science and Technology (HUST)](https://hust.edu.cn/) and M.Sc. in Big Data Technology from [HKUST]((https://hkust.edu.hk/)). Please feel free to contact me if you would like to discuss my research further.
 
 ### <font color="#FF0000">News</font>
-- Nov 2024: Our paper on legal grounding in privacy domain has been awarded the outstanding paper 🏆 at EMNLP 2024!
+- Nov 2024: Our paper on legal grounding in privacy domain has been awarded the ***<font color="#FF0000">outstanding paper</font>*** 🏆 at EMNLP 2024!
 - Sep 2024: Three papers are accepted by EMNLP 2024. Topics cover legal alignment, theory of mind, and text-to-table summarization. See you in Miami!
 - May 2024: Two papers are accepted by ACL 2024. Topics cover abstract knowledge and differential privacy. See you in Thailand!
 - Mar 2024: One paper is accepted by DASFAA 2024. Topics cover hierarchical reinforcement learning and conversational recommendation. Welcome to my oral presentation in Gifu, Japan.
