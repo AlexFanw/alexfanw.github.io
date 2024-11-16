@@ -11,7 +11,7 @@ redirect_from:
 Welcome! I'm a Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/). Before that, I got my B.Eng. degree in Computer Science from [Huazhong University of Science and Technology (HUST)](https://hust.edu.cn/) and M.Sc. in Big Data Technology from [HKUST]((https://hkust.edu.hk/)). Please feel free to contact me if you would like to discuss my research further.
 
 ### <font color="#FF0000">News</font>
-- Nov 2024: Our paper on legal grounding in privacy domain has been awarded the outstanding paper at EMNLP 2024!
+- Nov 2024: Our paper on legal grounding in privacy domain has been awarded the outstanding paper 🏆 at EMNLP 2024!
 - Sep 2024: Three papers are accepted by EMNLP 2024. Topics cover legal alignment, theory of mind, and text-to-table summarization. See you in Miami!
 - May 2024: Two papers are accepted by ACL 2024. Topics cover abstract knowledge and differential privacy. See you in Thailand!
 - Mar 2024: One paper is accepted by DASFAA 2024. Topics cover hierarchical reinforcement learning and conversational recommendation. Welcome to my oral presentation in Gifu, Japan.
@@ -30,7 +30,8 @@ My primary research focus is on **retrieval** and **logical reasoning**, with a 
 **[Conference]**
 - **GoldCoin: Grounding Large Language Models in Privacy Laws via Contextual Integrity Theory**
   <br>**<font color="#000066">Wei Fan*</font>**, Haoran Li\*, Zheye Deng, Weiqi Wang, Yangqiu Song
-  <br>*Conference on Empirical Methods in Natural Language Processing (EMNLP, ***<font color="#FF0000">Outstanding Paper </font>***) 2024.* ***<font color="#FF0000">Oral </font>***
+  <br>*Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024. **<font color="#FF0000">Oral </font>***
+  <br>🏆 ***<font color="#FF0000">Outstanding Paper Award</font>***
   <br>[[paper]](https://arxiv.org/abs/2406.11149)[[code]](https://github.com/HKUST-KnowComp/GoldCoin)
 - **Chain-of-Choice Hierarchical Policy Learning for Conversational Recommendation**
   <br>**<font color="#000066">Wei Fan</font>**, Weijia Zhang, Weiqi Wang, Yangqiu Song, Hao Liu
