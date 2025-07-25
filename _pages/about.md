@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/). Before that, I got my B.Eng. degree in Computer Science from [Huazhong University of Science and Technology (HUST)](https://hust.edu.cn/) and M.Sc. in Big Data Technology from [HKUST](https://hkust.edu.hk/). Please feel free to contact me if you would like to discuss my research further.
+Welcome! I'm a Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/). Currently, I am a research intern at Amazon Rufus LLM in Palo Alto, working with [Dr. Wenlin Yao](https://scholar.google.com/citations?user=qwo2A24AAAAJ) and [Dr. Zheng Li](https://scholar.google.com.hk/citations?user=P6fwn4AAAAAJ&hl).
+
+
 
 ### <font color="#FF0000">News</font>
 - Jan 2025: One paper is accepted by NAACL 2025.
@@ -20,9 +22,10 @@ Welcome! I'm a Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.u
 
 ## Research Interest
 <!-- My primary research focus is on **retrieval** and **logical reasoning**, with a special interest in the theory and application of legal NLP, large-scale knowledge graphs, and recommender systems. -->
-I am generally interested in **Natural Language Processing** and **Deep Learning** and actively focus on the following research areas:
+Currently, I focus on:
+- Deep Research
 - Legal Reasoning: [Legal Rule Induction](https://arxiv.org/abs/2505.14104), [GoldCoin](https://arxiv.org/abs/2406.11149), [Privacy Checklist](https://arxiv.org/abs/2408.10053)
-- Reinforcement Learning Enhanced Reasoning: [Chain-of-Choice](https://arxiv.org/abs/2310.17922)
+
 
 ## Education
 
@@ -49,11 +52,11 @@ Conference Reviewer: ACL Rolling Review (2023 - Now)
 - CSIT 6000R: Natural Language Processing (Spring 2024, Spring 2025)
 
 
-<!-- ## Awards
-- HKUST RedBird Academic Excellence Award for Continuing PhD Students (2025)
+## Awards
+- HKUST RedBird Academic Excellence Award for Continuing PhD Students (2024-2025)
 - EMNLP 2024 Outstanding Paper Award
 - HKUST Postgraduate Studentship (2023-2027)
-- ByteDance Outstanding Individual Award (2021) -->
+- ByteDance Outstanding Individual Award (2021)
 
 ## Contact
 You can reach me at `wfanag [at] connect [dot] ust [dot] hk`.
