@@ -56,7 +56,7 @@ author_profile: true
 - **AutoSchemaKG: Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora**
   <br>Jiaxin Bai\*, **<font color="#000066">Wei Fan</font>**\*, Qi Hu\*, Qing Zong, Chunyang Li, Hong Ting Tsang, Hongyu Luo, Yauwai Yim, Haoyu Huang, Xiao Zhou, Feng Qin, Tianshi Zheng, Xi Peng, Xin Yao, Huiwen Yang, Leijie Wu, Yi Ji, Gong Zhang, Renhai Chen, Yangqiu Song.
   <br>*Arxiv Preprint 2025.*
-  <br>[[paper]](https://www.arxiv.org/abs/2505.07313)[[code]](https://github.com/HKUST-KnowComp/AutoSchemaKG)
+  <br>[[paper]](https://www.arxiv.org/abs/2505.23628)[[code]](https://github.com/HKUST-KnowComp/AutoSchemaKG)
 - **Towards Multi-Agent Reasoning Systems for Collaborative Expertise Delegation: An Exploratory Design Study**
   <br>Baixuan Xu, Chunyang Li, Weiqi Wang, **<font color="#000066">Wei Fan</font>**, Tianshi Zheng, Haochen Shi, Tao Fan, Yangqiu Song, Qiang Yang.
   <br>*Arxiv Preprint 2025.*
