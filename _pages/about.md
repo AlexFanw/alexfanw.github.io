@@ -42,9 +42,9 @@ Currently, I focus on:
 - Research Intern, Jun.2022-Aug.2022
 
 ## Academic Service
-Area Chair: ACL Rolling Review (2025 July)
-<br>Conference Reviewer: ACL Rolling Review (2023 - Now)
-<br>Conference Volunteer: IJCAI (2023)
+- **Area Chair**: ACL Rolling Review (2025 July)
+- Conference Reviewer: ACL Rolling Review (2023 - Now)
+- Conference Volunteer: IJCAI (2023)
 
 ## Teaching
 - COMP 4222: Machine Learning with Structured Data (Fall 2024)
