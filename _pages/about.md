@@ -42,7 +42,8 @@ Currently, I focus on:
 - Research Intern, Jun.2022-Aug.2022
 
 ## Academic Service
-Conference Reviewer: ACL Rolling Review (2023 - Now)
+Area Chair: ACL Rolling Review (2025 July)
+<br>Conference Reviewer: ACL Rolling Review (2023 - Now)
 <br>Conference Volunteer: IJCAI (2023)
 
 ## Teaching
