@@ -11,8 +11,7 @@ redirect_from:
 Welcome! I'm a Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/). Currently, I am a research intern at Amazon Rufus LLM in Palo Alto, working with [Dr. Wenlin Yao](https://scholar.google.com/citations?user=qwo2A24AAAAJ) and [Dr. Zheng Li](https://scholar.google.com.hk/citations?user=P6fwn4AAAAAJ&hl).
 
 
-
-### <font color="#FF0000">News</font>
+## <font color="#FF0000">News</font>
 - Jul 2025: I am serving as an **Area Chair** for the ACL Rolling Review (July 2025).
 - Jan 2025: One paper is accepted by NAACL 2025.
 - Nov 2024: Our paper on legal grounding in privacy domain has been awarded the ***<font color="#FF0000">outstanding paper</font>*** 🏆 at EMNLP 2024!
