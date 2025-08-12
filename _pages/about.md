@@ -14,7 +14,7 @@ Welcome! I'm a Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.u
 ## <font color="#FF0000">News</font>
 - Jul 2025: I am serving as an **Area Chair** for the ACL Rolling Review (July 2025).
 - Jan 2025: One paper is accepted by NAACL 2025.
-- Nov 2024: Our paper on legal grounding in privacy domain has been awarded the ***<font color="#FF0000">outstanding paper</font>*** 🏆 at EMNLP 2024!
+- Nov 2024: First-authored paper on legal grounding in privacy domain has been awarded the ***<font color="#FF0000">outstanding paper</font>*** 🏆 at EMNLP 2024!
 - Sep 2024: Three papers are accepted by EMNLP 2024. Topics cover legal alignment, theory of mind, and text-to-table summarization. See you in Miami!
 - May 2024: Two papers are accepted by ACL 2024. Topics cover abstract knowledge and differential privacy. See you in Thailand!
 - Mar 2024: One paper is accepted by DASFAA 2024. Topics cover hierarchical reinforcement learning and conversational recommendation. Welcome to my oral presentation in Gifu, Japan.
