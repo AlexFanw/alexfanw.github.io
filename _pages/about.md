@@ -21,46 +21,46 @@ Welcome! I'm a Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.u
 - Mar 2024: One paper is accepted by DASFAA 2024. Topics cover hierarchical reinforcement learning and conversational recommendation. Welcome to my oral presentation in Gifu, Japan.
 - Aug 2023: Attending IJCAI 2023 at Macao as a student volunteer.
 
-# Research Interest
+## Research Interest
 <!-- My primary research focus is on **retrieval** and **logical reasoning**, with a special interest in the theory and application of legal NLP, large-scale knowledge graphs, and recommender systems. -->
 Currently, I focus on:
 - **Deep Research Agents**
 - **Legal Reasoning**: [Legal Rule Induction](https://arxiv.org/abs/2505.14104), [GoldCoin](https://arxiv.org/abs/2406.11149), [Privacy Checklist](https://arxiv.org/abs/2408.10053)
 
 
-# Education
+## Education
 
 -  **Doctor of Philosophy · [HKUST](https://hkust.edu.hk/) · Computer Science · Sep.2023-Now**
 -  Master of Science · [HKUST](https://hkust.edu.hk/) · Big Data Technology · Sep.2022-Jul.2023
 -  Bachelor of Engineering · [HUST](https://hust.edu.cn/) · Computer Science · Sep.2017-Jun.2021
 -  Visiting Student · [UoM](https://www.manchester.ac.uk/) · Computer Science · Jul.2019-Aug.2019
   
-# Internship
+## Internship
 **Amazon Rufus LLM, Amazon Inc., Palo Alto, CA, USA**
 - Applied Scientist Intern, Jun.2025-Oct.2025
   
 **Artificial Intelligence Thrust, HKUST, Guangzhou, China**
 - Research Intern, Jun.2022-Aug.2022
 
-# Academic Service
+## Academic Service
 - **Area Chair**: ACL Rolling Review (2025 July)
 - Conference Reviewer: ACL Rolling Review (2023 - Now)
 - Conference Volunteer: IJCAI (2023)
 
-# Teaching
+## Teaching
 - COMP 4222: Machine Learning with Structured Data (Fall 2024)
 - MSBD 5018: Natural Language Processing (Fall 2024)
 - COMP 1021: Introduction to Computer Science (Spring 2024)
 - CSIT 6000R: Natural Language Processing (Spring 2024, Spring 2025)
 
 
-# Awards
+## Awards
 - HKUST RedBird Academic Excellence Award for Continuing PhD Students (2024-2025)
 - EMNLP 2024 Outstanding Paper Award
 - HKUST Postgraduate Studentship (2023-2027)
 - ByteDance Outstanding Individual Award (2021)
 
-# Contact
+## Contact
 You can reach me at `wfanag [at] connect [dot] ust [dot] hk`.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=m&d=JH7LPAxuPOUwmpB8ZB01Fa168e4WMQg10LG3FtRaggk&co=4b98ce&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
