@@ -10,6 +10,10 @@ author_profile: true
 `Remark: * indicates equal contribution.`
 
 **[Conference]**
+- **On the Role of Entity and Event Level Conceptualization in Generalizable Reasoning: A Survey of Tasks, Methods, Applications, and Future Directions**
+  <br>Weiqi Wang, Tianqing Fang, Haochen Shi, Baixuan Xu, Wenxuan Ding, Liyu Zhang, **<font color="#000066">Wei Fan</font>**, Jiaxin Bai, Haoran Li, Xin Liu, Yangqiu Song.
+  <br>*Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025*
+  <br>[[paper]](https://arxiv.org/pdf/2406.10885)
 - **Privacy Checklist: Privacy Violation Detection Grounding on Contextual Integrity Theory**
   <br>Haoran Li\*, **<font color="#000066">Wei Fan*</font>**, Yulin Chen, Jiayang Cheng, Tianshu Chu, Xuebing Zhou, Peizhao Hu, Yangqiu Song
   <br>*Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL) 2025.*
@@ -65,8 +69,5 @@ author_profile: true
   <br>Weijia Zhang, Jindong Han, Hao Liu, **<font color="#000066">Wei Fan</font>**, Hao Wang, Hui Xiong.
   <br>*Arxiv Preprint 2024.*
   <br>[[paper]](https://www.arxiv.org/abs/2410.08947)
-- **On the Role of Entity and Event Level Conceptualization in Generalizable Reasoning: A Survey of Tasks, Methods, Applications, and Future Directions**
-  <br>Weiqi Wang, Tianqing Fang, Haochen Shi, Baixuan Xu, Wenxuan Ding, Liyu Zhang, **<font color="#000066">Wei Fan</font>**, Jiaxin Bai, Haoran Li, Xin Liu, Yangqiu Song.
-  <br>*Arxiv Preprint 2024.*
-  <br>[[paper]](https://arxiv.org/pdf/2406.10885)
+
 
