@@ -8,12 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/). Currently, I am a research intern at Amazon Rufus LLM in Palo Alto, working with [Dr. Wenlin Yao](https://scholar.google.com/citations?user=qwo2A24AAAAJ) and [Dr. Zheng Li](https://scholar.google.com.hk/citations?user=P6fwn4AAAAAJ&hl).
+Welcome! I'm a Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/). Currently, I am a research intern at applied scientist intern at Amazon Stores Foundational AI, working with [Dr. Wenlin Yao](https://scholar.google.com/citations?user=qwo2A24AAAAJ) and [Dr. Zheng Li](https://scholar.google.com.hk/citations?user=P6fwn4AAAAAJ&hl). Prior to that, I obtained my M.Sc. degree in Big Data Technology from HKUST, and my B.Eng. degree in Computer Science from [Huazhong University of Science and Technology (HUST)](https://hust.edu.cn/).
+
+
+🚀 *I am looking for internships related to reinforcement learning and LLM-based agents starting from 2026 Spring. Feel free to reach out if you have any opportunities!*
 
 
 ## <font color="#FF0000">News</font>
+- Sep 2025: One survey paper on entity and event conceptualization is accepted by EMNLP 2025.
 - Jul 2025: I am serving as an **Area Chair** for the ACL Rolling Review (July 2025).
-- Jan 2025: One paper is accepted by NAACL 2025.
+- Jun 2025: I start my internship at Amazon Stores Foundational AI as an Applied Scientist Intern.
+- Jan 2025: One paper about privacy checklist is accepted by NAACL 2025.
 - Nov 2024: First-authored paper on legal grounding in privacy domain has been awarded the ***<font color="#FF0000">outstanding paper</font>*** 🏆 at EMNLP 2024!
 - Sep 2024: Three papers are accepted by EMNLP 2024. Topics cover legal alignment, theory of mind, and text-to-table summarization. See you in Miami!
 - May 2024: Two papers are accepted by ACL 2024. Topics cover abstract knowledge and differential privacy. See you in Thailand!
@@ -42,7 +47,7 @@ Currently, I focus on:
 - Research Intern, Jun.2022-Aug.2022
 
 ## Academic Service
-- **Area Chair**: ACL Rolling Review (2025 July)
+- **Area Chair**: ACL Rolling Review (2025 July - Now)
 - Conference Reviewer: ACL Rolling Review (2023 - Now)
 - Conference Volunteer: IJCAI (2023)
 
