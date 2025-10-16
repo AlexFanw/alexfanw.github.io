@@ -10,6 +10,10 @@ author_profile: true
 `Remark: * indicates equal contribution.`
 
 **[Preprint]**
+- **DeepPlanner: Scaling Planning Capability for Deep Research Agents via Advantage Shaping**
+  <br>**<font color="#000066">Wei Fan</font>**, Wenlin Yao, Zheng Li, Feng Yao, Xin Liu, Liang Qiu, Qingyu Yin, Yangqiu Song, Bing Yin.
+  <br>*Arxiv Preprint 2025.*
+  <br>[[paper]](https://arxiv.org/abs/2510.12979)[[code]](https://github.com/AlexFanw/DeepPlanner)
 - **Legal Rule Induction: Towards Generalizable Principle Discovery from Analogous Judicial Precedents**
   <br>**<font color="#000066">Wei Fan</font>**, Tianshi Zheng, Yiran Hu, Zheye Deng, Weiqi Wang, Baixuan Xu, Chunyang Li, Haoran Li, Weixing Shen, Yangqiu Song.
   <br>*Arxiv Preprint 2025.*

@@ -28,7 +28,7 @@ Welcome! I'm a Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.u
 ## Research Interest
 <!-- My primary research focus is on **retrieval** and **logical reasoning**, with a special interest in the theory and application of legal NLP, large-scale knowledge graphs, and recommender systems. -->
 Currently, I focus on:
-- **Deep Research Agents**
+- **Deep Research Agents**: [DeepPlanner](https://arxiv.org/abs/2510.12979)
 - **Legal Reasoning**: [Legal Rule Induction](https://arxiv.org/abs/2505.14104), [GoldCoin](https://arxiv.org/abs/2406.11149), [Privacy Checklist](https://arxiv.org/abs/2408.10053)
 
 
