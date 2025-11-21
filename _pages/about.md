@@ -16,7 +16,7 @@ Welcome! I'm a Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.u
 ## Research Interest
 <!-- My primary research focus is on **retrieval** and **logical reasoning**, with a special interest in the theory and application of legal NLP, large-scale knowledge graphs, and recommender systems. -->
 - **Deep Research Agents & Reinforcement Learning**: [DeepPlanner](https://arxiv.org/abs/2510.12979), [CoCHPL](https://arxiv.org/abs/2310.17922)
-- **Data Synthesis & Augmentation**: [GoldCoin](https://arxiv.org/abs/2406.11149), [AutoSchemaKG](https://www.arxiv.org/abs/2505.23628)
+- **Data Synthesis & Augmentation**: [🏆GoldCoin](https://arxiv.org/abs/2406.11149), [AutoSchemaKG](https://www.arxiv.org/abs/2505.23628)
 - **Legal Reasoning & Safety**: [Legal Rule Induction](https://arxiv.org/abs/2505.14104), [Privacy Checklist](https://arxiv.org/abs/2408.10053), [Multi-step Jailbreak](https://arxiv.org/abs/2304.05197)
 
 
