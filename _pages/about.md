@@ -13,6 +13,12 @@ Welcome! I'm a Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.u
 
 🚀 *I am looking for internships related to reinforcement learning and LLM-based agents starting from 2026 Spring. Feel free to reach out if you have any opportunities!*
 
+## Research Interest
+<!-- My primary research focus is on **retrieval** and **logical reasoning**, with a special interest in the theory and application of legal NLP, large-scale knowledge graphs, and recommender systems. -->
+- **Deep Research Agents & Reinforcement Learning**: [DeepPlanner](https://arxiv.org/abs/2510.12979), [CoCHPL](https://arxiv.org/abs/2310.17922)
+- **Data Synthesis & Augmentation**: [GoldCoin](https://arxiv.org/abs/2406.11149), [AutoSchemaKG](https://www.arxiv.org/abs/2505.23628)
+- **Legal Reasoning & Safety**: [Legal Rule Induction](https://arxiv.org/abs/2505.14104), [Privacy Checklist](https://arxiv.org/abs/2408.10053), [Multi-step Jailbreak](https://arxiv.org/abs/2304.05197)
+
 
 ## <font color="#FF0000">News</font>
 - Sep 2025: One survey paper on entity and event conceptualization is accepted by EMNLP 2025.
@@ -25,11 +31,7 @@ Welcome! I'm a Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.u
 - Mar 2024: One paper is accepted by DASFAA 2024. Topics cover hierarchical reinforcement learning and conversational recommendation. Welcome to my oral presentation in Gifu, Japan.
 - Aug 2023: Attending IJCAI 2023 at Macao as a student volunteer.
 
-## Research Interest
-<!-- My primary research focus is on **retrieval** and **logical reasoning**, with a special interest in the theory and application of legal NLP, large-scale knowledge graphs, and recommender systems. -->
-Currently, I focus on:
-- **Deep Research Agents**: [DeepPlanner](https://arxiv.org/abs/2510.12979)
-- **Legal Reasoning**: [Legal Rule Induction](https://arxiv.org/abs/2505.14104), [GoldCoin](https://arxiv.org/abs/2406.11149), [Privacy Checklist](https://arxiv.org/abs/2408.10053)
+
 
 
 ## Education
@@ -41,7 +43,8 @@ Currently, I focus on:
   
 ## Internship
 **Amazon Rufus LLM, Amazon Inc., Palo Alto, CA, USA**
-- Applied Scientist Intern, Jun.2025-Oct.2025
+- Applied Scientist Intern, Jun.2025-Dec.2025
+>*Working on scaling planning capabilities for LLM-based deep research agents and rubrics-as-rewards techniques in reinforcement learning.*
   
 **Artificial Intelligence Thrust, HKUST, Guangzhou, China**
 - Research Intern, Jun.2022-Aug.2022
