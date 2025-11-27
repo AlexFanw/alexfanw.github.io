@@ -11,8 +11,6 @@ redirect_from:
 Welcome! I'm a Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/). Currently, I am a research intern at applied scientist intern at Amazon Stores Foundational AI, working with [Dr. Wenlin Yao](https://scholar.google.com/citations?user=qwo2A24AAAAJ) and [Dr. Zheng Li](https://scholar.google.com.hk/citations?user=P6fwn4AAAAAJ&hl). Prior to that, I obtained my M.Sc. degree in Big Data Technology from HKUST, and my B.Eng. degree in Computer Science from [Huazhong University of Science and Technology (HUST)](https://hust.edu.cn/).
 
 
-🚀 *I am looking for internships related to reinforcement learning and LLM-based agents starting from 2026 Spring. Feel free to reach out if you have any opportunities!*
-
 ## Research Interest
 <!-- My primary research focus is on **retrieval** and **logical reasoning**, with a special interest in the theory and application of legal NLP, large-scale knowledge graphs, and recommender systems. -->
 - **Deep Research Agents & Reinforcement Learning**: [DeepPlanner](https://arxiv.org/abs/2510.12979), [CoCHPL](https://arxiv.org/abs/2310.17922)
