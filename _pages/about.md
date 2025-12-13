@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/). Currently, I am a research intern at applied scientist intern at Amazon Stores Foundational AI, working with [Dr. Wenlin Yao](https://scholar.google.com/citations?user=qwo2A24AAAAJ) and [Dr. Zheng Li](https://scholar.google.com.hk/citations?user=P6fwn4AAAAAJ&hl). Prior to that, I obtained my M.Sc. degree in Big Data Technology from HKUST, and my B.Eng. degree in Computer Science from [Huazhong University of Science and Technology (HUST)](https://hust.edu.cn/).
+Welcome! I'm a third year Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/).
+I will soon join the <img src="../images/tongyi.png" width="20px" style="display:inline;"> Tongyi Qwen at Alibaba Group as a research intern, where I will focus on agents and reinforcement learning.
+Previously, I was an applied scientist intern at <img src="../images/amazon.png" width="20px" style="display:inline;"> Amazon Stores Foundational AI, where I worked with [Dr. Wenlin Yao](https://scholar.google.com/citations?user=qwo2A24AAAAJ) and [Dr. Zheng Li](https://scholar.google.com.hk/citations?user=P6fwn4AAAAAJ&hl) on deep research agents. I received the EMNLP 2024 **<font color="#FF0000">outstanding paper award</font>**.
 
 
 ## Research Interest
 <!-- My primary research focus is on **retrieval** and **logical reasoning**, with a special interest in the theory and application of legal NLP, large-scale knowledge graphs, and recommender systems. -->
-- **Deep Research Agents & Reinforcement Learning**: [DeepPlanner](https://arxiv.org/abs/2510.12979), [CoCHPL](https://arxiv.org/abs/2310.17922)
-- **Data Synthesis & Augmentation**: [🏆GoldCoin](https://arxiv.org/abs/2406.11149), [AutoSchemaKG](https://www.arxiv.org/abs/2505.23628)
+- **Agent & Reinforcement Learning**: [DeepPlanner](https://arxiv.org/abs/2510.12979), [CoCHPL](https://arxiv.org/abs/2310.17922)
+- **Data Synthesis & Augmentation**: [🏆 GoldCoin](https://arxiv.org/abs/2406.11149), [AutoSchemaKG](https://www.arxiv.org/abs/2505.23628)
 - **Legal Reasoning & Safety**: [Legal Rule Induction](https://arxiv.org/abs/2505.14104), [Privacy Checklist](https://arxiv.org/abs/2408.10053), [Multi-step Jailbreak](https://arxiv.org/abs/2304.05197)
 
 
@@ -23,7 +25,7 @@ Welcome! I'm a Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.u
 - Jul 2025: I am serving as an **Area Chair** for the ACL Rolling Review (July 2025).
 - Jun 2025: I start my internship at Amazon Stores Foundational AI as an Applied Scientist Intern.
 - Jan 2025: One paper about privacy checklist is accepted by NAACL 2025.
-- Nov 2024: First-authored paper on legal grounding in privacy domain has been awarded the ***<font color="#FF0000">outstanding paper</font>*** 🏆 at EMNLP 2024!
+- Nov 2024: First-authored paper on legal data synthesis and LLM alignment has been awarded the [🏆 outstanding paper at EMNLP 2024](https://cse.hkust.edu.hk/News/EMNLP2024/)!
 - Sep 2024: Three papers are accepted by EMNLP 2024. Topics cover legal alignment, theory of mind, and text-to-table summarization. See you in Miami!
 - May 2024: Two papers are accepted by ACL 2024. Topics cover abstract knowledge and differential privacy. See you in Thailand!
 - Mar 2024: One paper is accepted by DASFAA 2024. Topics cover hierarchical reinforcement learning and conversational recommendation. Welcome to my oral presentation in Gifu, Japan.
@@ -39,13 +41,18 @@ Welcome! I'm a Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.u
 -  Bachelor of Engineering · [HUST](https://hust.edu.cn/) · Computer Science · Sep.2017-Jun.2021
 -  Visiting Student · [UoM](https://www.manchester.ac.uk/) · Computer Science · Jul.2019-Aug.2019
   
-## Internship
-**Amazon Rufus LLM, Amazon Inc., Palo Alto, CA, USA**
-- Applied Scientist Intern, Jun.2025-Dec.2025
->*Working on scaling planning capabilities for LLM-based deep research agents and rubrics-as-rewards techniques in reinforcement learning.*
+## Work Experience
+- **Tongyi Qwen Team, Alibaba, Hangzhou, China**
+  - Research Intern, Jan.2026-Now
+
+- **Amazon Rufus LLM, Amazon, Palo Alto, CA, USA**
+  - Applied Scientist Intern, Jun.2025-Dec.2025
   
-**Artificial Intelligence Thrust, HKUST, Guangzhou, China**
-- Research Intern, Jun.2022-Aug.2022
+- **Artificial Intelligence Thrust, HKUST, Guangzhou, China**
+  - Research Intern, Jun.2022-Aug.2022
+
+- **Product Research and Development, ByteDance, Shanghai, China**
+  - Software Development Engineer, Jul.2021-May.2022
 
 ## Academic Service
 - **Area Chair**: ACL Rolling Review (2025 July - Now)
@@ -59,7 +66,7 @@ Welcome! I'm a Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.u
 - CSIT 6000R: Natural Language Processing (Spring 2024, Spring 2025)
 
 
-## Awards
+## Selected Awards
 - HKUST RedBird Academic Excellence Award for Continuing PhD Students (2024-2025)
 - EMNLP 2024 Outstanding Paper Award
 - HKUST Postgraduate Studentship (2023-2027)
@@ -67,5 +74,6 @@ Welcome! I'm a Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.u
 
 ## Contact
 You can reach me at `wfanag [at] connect [dot] ust [dot] hk`.
+
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=m&d=JH7LPAxuPOUwmpB8ZB01Fa168e4WMQg10LG3FtRaggk&co=4b98ce&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
