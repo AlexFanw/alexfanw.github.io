@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome! I'm a third year Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/).
-I am currently a research intern at <img src="../images/tongyi.png" width="20px" style="display:inline;"> Tongyi Qwen, Alibaba Group, where I focus on agents and reinforcement learning.
+I am currently a research intern at <img src="../images/tongyi.png" width="20px" style="display:inline;"> Tongyi Qwen, Foundation Model Team, where I focus on agents.
 Previously, I was an applied scientist intern at <img src="../images/amazon.png" width="20px" style="display:inline;"> Amazon Stores Foundational AI, where I worked with [Dr. Wenlin Yao](https://scholar.google.com/citations?user=qwo2A24AAAAJ) and [Dr. Zheng Li](https://scholar.google.com.hk/citations?user=P6fwn4AAAAAJ&hl) on deep research agents. I received the EMNLP 2024 **<font color="#FF0000">outstanding paper award</font>**.
 
 
@@ -42,7 +42,7 @@ Previously, I was an applied scientist intern at <img src="../images/amazon.png"
 -  Visiting Student · [UoM](https://www.manchester.ac.uk/) · Computer Science · Jul.2019-Aug.2019
   
 ## Work Experience
-- **Tongyi Qwen Team, Alibaba, Hangzhou, China**
+- **Tongyi Qwen, Alibaba, Hangzhou, China**
   - Research Intern, Jan.2026-Now
 
 - **Amazon Rufus LLM, Amazon, Palo Alto, CA, USA**
