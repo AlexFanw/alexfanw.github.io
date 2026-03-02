@@ -41,7 +41,7 @@ author_profile: true
 
 **[Journal]**
 - **Meta-Transfer Learning Powered Temporal Graph Networks for Cross-City Real Estate Appraisal**
-  <br>Weijia Zhang, Jindong Han, Hao Liu, **<font color="#000066">Wei Fan*</font>**, Hao Wang, Hui Xiong
+  <br>Weijia Zhang, Jindong Han, Hao Liu, **<font color="#000066">Wei Fan</font>**, Hao Wang, Hui Xiong
   <br>Transactions on Intelligent Systems and Technology (TIST) 2025.
   <br>[[paper]](https://arxiv.org/abs/2410.08947)
 
