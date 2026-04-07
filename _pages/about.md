@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome! I'm a third year Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/).
-I am currently a research intern under the mentorship of [Dr. Jianhong Tu](https://scholar.google.com/citations?hl=en&user=EvVKNrAAAAAJ) at <img src="../images/tongyi.png" width="20px" style="display:inline;"> Qwen Team, Alibaba Group where I focus on agents.
+I am currently a research intern under the mentorship of [Dr. Jianhong Tu](https://scholar.google.com/citations?hl=en&user=EvVKNrAAAAAJ) at <img src="../images/tongyi.png" width="20px" style="display:inline;"> Qwen Team, Alibaba Group where I focus on **agents**.
 Previously, I was an applied scientist intern at <img src="../images/amazon.png" width="20px" style="display:inline;"> Amazon Stores Foundational AI, where I worked with [Dr. Wenlin Yao](https://scholar.google.com/citations?user=qwo2A24AAAAJ) and [Dr. Zheng Li](https://scholar.google.com.hk/citations?user=P6fwn4AAAAAJ&hl) on deep research agents. I received the EMNLP 2024 **<font color="#FF0000">outstanding paper award</font>**.
 
 
@@ -21,6 +21,7 @@ Previously, I was an applied scientist intern at <img src="../images/amazon.png"
 
 
 ## <font color="#FF0000">News</font>
+- Apr 2026: Three papers are accepted by ACL 2026. Topics cover deep research agents, large-scaleknowledge graph, and behavior understanding. See you in San Diego!
 - Sep 2025: One survey paper on entity and event conceptualization is accepted by EMNLP 2025.
 - Jul 2025: I am serving as an **Area Chair** for the ACL Rolling Review (July 2025).
 - Jun 2025: I start my internship at Amazon Stores Foundational AI as an Applied Scientist Intern.
@@ -30,9 +31,6 @@ Previously, I was an applied scientist intern at <img src="../images/amazon.png"
 - May 2024: Two papers are accepted by ACL 2024. Topics cover abstract knowledge and differential privacy. See you in Thailand!
 - Mar 2024: One paper is accepted by DASFAA 2024. Topics cover hierarchical reinforcement learning and conversational recommendation. Welcome to my oral presentation in Gifu, Japan.
 - Aug 2023: Attending IJCAI 2023 at Macao as a student volunteer.
-
-
-
 
 ## Education
 
@@ -55,7 +53,7 @@ Previously, I was an applied scientist intern at <img src="../images/amazon.png"
   - Software Development Engineer, Jul.2021-May.2022
 
 ## Academic Service
-- **Area Chair**: ACL Rolling Review (2025 July - Now)
+- **Area Chair**: ACL Rolling Review (2025 July - 2026 March)
 - Conference Reviewer: ACL Rolling Review (2023 - Now)
 - Conference Volunteer: IJCAI (2023)
 
