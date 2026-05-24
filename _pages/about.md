@@ -60,12 +60,12 @@ Previously, I was an applied scientist intern at <img src="../images/amazon.png"
 ## Teaching
 - COMP 4222: Machine Learning with Structured Data (Fall 2024)
 - MSBD 5018: Natural Language Processing (Fall 2024)
-- COMP 1021: Introduction to Computer Science (Spring 2024)
+- COMP 1021: Introduction to Computer Science (Spring 2024, Spring 2026)
 - CSIT 6000R: Natural Language Processing (Spring 2024, Spring 2025)
 
 
 ## Selected Awards
-- HKUST RedBird Academic Excellence Award for Continuing PhD Students (2024-2025)
+- HKUST RedBird Academic Excellence Award for Continuing PhD Students (2024-2025, 2025-2026)
 - **EMNLP 2024 Outstanding Paper Award**
 - HKUST Postgraduate Studentship (2023-2027)
 - ByteDance Outstanding Individual Award (2021)
