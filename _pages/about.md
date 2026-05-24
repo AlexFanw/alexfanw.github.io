@@ -15,18 +15,18 @@ Previously, I was an applied scientist intern at <img src="../images/amazon.png"
 
 ## Research Interest
 
-- **Agent & Reinforcement Learning**: [DeepPlanner](https://arxiv.org/abs/2510.12979), [CoCHPL](https://arxiv.org/abs/2310.17922)
-- **Data Synthesis & Augmentation**: [🏆 GoldCoin](https://arxiv.org/abs/2406.11149), [AutoSchemaKG](https://www.arxiv.org/abs/2505.23628)
-- **Legal Reasoning & Safety**: [Legal Rule Induction](https://arxiv.org/abs/2505.14104), [Privacy Checklist](https://arxiv.org/abs/2408.10053), [Multi-step Jailbreak](https://arxiv.org/abs/2304.05197)
+- **Agent & Reinforcement Learning**: [DeepPlanner](https://arxiv.org/abs/2510.12979), [CoCHPL](https://arxiv.org/abs/2310.17922), [<img src="../images/tongyi.png" width="20px" style="display:inline;"> Qwen3.7: The Agent Frontier](https://qwen.ai/blog?id=qwen3.7#long-horizon-planning-and-execution-in-startup-management)
+- **Legal Reasoning & Safety**: [🏆 GoldCoin](https://arxiv.org/abs/2406.11149), [Legal Rule Induction](https://arxiv.org/abs/2505.14104), [Privacy Checklist](https://arxiv.org/abs/2408.10053), [Multi-step Jailbreak](https://arxiv.org/abs/2304.05197)
 
 
 ## <font color="#FF0000">News</font>
+- May 2026: 🥤 We are excited to announce the release of the [Qwen3.7 Max](https://qwen.ai/blog?id=qwen3.7) model. My primary contribution focused on enhancing the agent's capabilities in **long-horizon** tasks.
 - Apr 2026: Three papers are accepted by ACL 2026. Topics cover deep research agents, large-scaleknowledge graph, and behavior understanding. See you in San Diego!
 - Sep 2025: One survey paper on entity and event conceptualization is accepted by EMNLP 2025.
 - Jul 2025: I am serving as an **Area Chair** for the ACL Rolling Review (July 2025).
 - Jun 2025: I start my internship at Amazon Stores Foundational AI as an Applied Scientist Intern.
 - Jan 2025: One paper about privacy checklist is accepted by NAACL 2025.
-- Nov 2024: First-authored paper on legal data synthesis and LLM alignment has been awarded the [🏆 outstanding paper at EMNLP 2024](https://cse.hkust.edu.hk/News/EMNLP2024/)!
+- Nov 2024: First-authored paper on legal data synthesis and LLM alignment has been awarded the 🏆 outstanding paper at [EMNLP 2024](https://cse.hkust.edu.hk/News/EMNLP2024/)!
 - Sep 2024: Three papers are accepted by EMNLP 2024. Topics cover legal alignment, theory of mind, and text-to-table summarization. See you in Miami!
 - May 2024: Two papers are accepted by ACL 2024. Topics cover abstract knowledge and differential privacy. See you in Thailand!
 - Mar 2024: One paper is accepted by DASFAA 2024. Topics cover hierarchical reinforcement learning and conversational recommendation. Welcome to my oral presentation in Gifu, Japan.
