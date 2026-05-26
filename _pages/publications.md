@@ -8,8 +8,19 @@ author_profile: true
 <!-- ## Publications -->
 
 `Remark: * indicates equal contribution.`
-
 **[Preprint]**
+- **Can LLMs Time Travel? Enhancing Temporal Consistency in Legal Agentic Search through Reinforcement Learning**
+  <br>**<font color="#000066">Wei Fan</font>**, Yining Zhou, Mufan Zhang, Yanbing Weng, Yiran HU, Tianshi Zheng, Baixuan Xu, Chunyang Li, Jianhui Yang, Haoran Li, Yangqiu Song.
+  <br>*Arxiv Preprint 2026.*
+  <br>[[paper]](https://arxiv.org/abs/2605.25920)[[code]](https://github.com/AlexFanw/LegalSearch-R1)
+- **A Survey on AI Agent Harness**
+  <br>Zhongwei Xie, Xiyu REN, Tianshi Zheng, Jiaxin Bai, Zhaowei Wang, **<font color="#000066">Wei Fan</font>**, Baixuan Xu, Wenbin Hu, Haoran Li, Huihao JING, Yangqiu Song.
+  <br>*ResearchGate Preprint 2026.*
+  <br>[[paper]](https://www.researchgate.net/publication/404675561_A_Survey_on_AI_Agent_Harness)
+- **AppellateGen: A Benchmark for Appellate Legal Judgment Generation**
+  <br>Hongkun Yang, Lionel Z. Wang, **<font color="#000066">Wei Fan</font>**, Yiran Hu, Lixu Wang, Chenyu Liu, Yu Zeng, Shenghong Fu, Lei Gong, Zhengxin Zhang, Haoyang Li, Jiexin Zheng, Xin Xu.
+  <br>*Arxiv Preprint 2026.*
+  <br>[[paper]](https://arxiv.org/abs/2601.01331)
 - **Legal Rule Induction: Towards Generalizable Principle Discovery from Analogous Judicial Precedents**
   <br>**<font color="#000066">Wei Fan</font>**, Tianshi Zheng, Yiran Hu, Zheye Deng, Weiqi Wang, Baixuan Xu, Chunyang Li, Haoran Li, Weixing Shen, Yangqiu Song.
   <br>*Arxiv Preprint 2025.*
@@ -22,13 +33,6 @@ author_profile: true
   <br>Baixuan Xu, Chunyang Li, Weiqi Wang, **<font color="#000066">Wei Fan</font>**, Tianshi Zheng, Haochen Shi, Tao Fan, Yangqiu Song, Qiang Yang.
   <br>*Arxiv Preprint 2025.*
   <br>[[paper]](https://www.arxiv.org/abs/2505.07313)
-
-
-**[Journal]**
-- **Meta-Transfer Learning Powered Temporal Graph Networks for Cross-City Real Estate Appraisal**
-  <br>Weijia Zhang, Jindong Han, Hao Liu, **<font color="#000066">Wei Fan</font>**, Hao Wang, Hui Xiong
-  <br>Transactions on Intelligent Systems and Technology (TIST) 2025.
-  <br>[[paper]](https://arxiv.org/abs/2410.08947)
 
 **[Conference]**
 - **DeepPlanner: Scaling Planning Capability for Deep Research Agents via Advantage Shaping**
@@ -85,4 +89,8 @@ author_profile: true
   <br>*Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP) 2023.*
   <br>[[paper]](https://arxiv.org/abs/2304.05197)
 
-
+**[Journal]**
+- **Meta-Transfer Learning Powered Temporal Graph Networks for Cross-City Real Estate Appraisal**
+  <br>Weijia Zhang, Jindong Han, Hao Liu, **<font color="#000066">Wei Fan</font>**, Hao Wang, Hui Xiong
+  <br>Transactions on Intelligent Systems and Technology (TIST) 2025.
+  <br>[[paper]](https://arxiv.org/abs/2410.08947)
