@@ -8,18 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a third year Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/).
-I am currently a research intern under the mentorship of [Jianhong Tu](https://scholar.google.com/citations?hl=en&user=EvVKNrAAAAAJ) at <img src="../images/tongyi.png" width="20px" style="display:inline;"> Qwen Team, Alibaba Group where I focus on **agents**.
-Previously, I was an applied scientist intern at <img src="../images/amazon.png" width="20px" style="display:inline;"> Amazon Stores Foundational AI, where I worked with [Dr. Wenlin Yao](https://scholar.google.com/citations?user=qwo2A24AAAAJ) and [Dr. Zheng Li](https://scholar.google.com.hk/citations?user=P6fwn4AAAAAJ&hl) on deep research agents. I received the EMNLP 2024 **<font color="#FF0000">outstanding paper award</font>**.
+Welcome! I'm the final year Ph.D. student supervised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/).
+I am currently a research intern under the mentorship of [Dr.Jianhong Tu](https://scholar.google.com/citations?hl=en&user=EvVKNrAAAAAJ) and [Dr.Dayiheng Liu](https://scholar.google.com/citations?user=pPLQrX4AAAAJ) at <img src="../images/tongyi.png" width="20px" style="display:inline;"> Qwen Team, Alibaba Group where I focus on **agents**.
+Previously, I was an applied scientist intern at <img src="../images/amazon.png" width="20px" style="display:inline;"> Amazon Stores Foundational AI, where I worked with [Dr. Wenlin Yao](https://scholar.google.com/citations?user=qwo2A24AAAAJ) and [Dr. Zheng Li](https://scholar.google.com.hk/citations?user=P6fwn4AAAAAJ&hl) on deep research agents. I received the EMNLP 2024 **<font color="#8d2803">outstanding paper award</font>**.
 
+
+**<font color="#e91a1a">I’m currently seeking full-time research opportunities focused on building next-generation AI agents. Let's connect!</font>**
 
 ## Research Interest
+Currently, my research focuses on:
+- **Agent**
+  - Long-Horizon planning and execution: <img src="../images/tongyi.png" width="20px" style="display:inline;"> [Qwen3.7: The Agent Frontier](https://qwen.ai/blog?id=qwen3.7#long-horizon-planning-and-execution-in-startup-management), <img src="../images/tongyi.png" width="20px" style="display:inline;"> [Qwen3.6-Plus: Towards Real World Agents](https://qwen.ai/blog?id=qwen3.6), <img src="../images/tongyi.png" width="20px" style="display:inline;"> [Qwen3.5: Towards Native Multimodal Agents](https://qwen.ai/blog?id=qwen3.5), [DeepPlanner](https://arxiv.org/abs/2510.12979)
+  - Sub-Agent orchestration for dynamic workflows
+- **Legal & Safety**: 
+  - General legal reasoning: [Legal Rule Induction](https://arxiv.org/abs/2505.14104), [LegalSearch-R1](https://arxiv.org/abs/2505.14104)
+  - Privacy attack and defense: [🏆 GoldCoin](https://arxiv.org/abs/2406.11149), [Privacy Checklist](https://arxiv.org/abs/2408.10053), [Multi-step Jailbreak](https://arxiv.org/abs/2304.05197)
 
-- **Agent & Reinforcement Learning**: [DeepPlanner](https://arxiv.org/abs/2510.12979), [CoCHPL](https://arxiv.org/abs/2310.17922), [<img src="../images/tongyi.png" width="20px" style="display:inline;"> Qwen3.7: The Agent Frontier](https://qwen.ai/blog?id=qwen3.7#long-horizon-planning-and-execution-in-startup-management)
-- **Legal Reasoning & Safety**: [🏆 GoldCoin](https://arxiv.org/abs/2406.11149), [Legal Rule Induction](https://arxiv.org/abs/2505.14104), [Privacy Checklist](https://arxiv.org/abs/2408.10053), [Multi-step Jailbreak](https://arxiv.org/abs/2304.05197)
 
-
-## <font color="#FF0000">News</font>
+## <font color="#d70000">News</font>
 - May 2026: 🥤 We are excited to announce the release of the [Qwen3.7 Max](https://qwen.ai/blog?id=qwen3.7) model. My primary contribution focused on enhancing the agent's capabilities in **long-horizon** tasks.
 - Apr 2026: Three papers are accepted by ACL 2026. Topics cover deep research agents, large-scaleknowledge graph, and behavior understanding. See you in San Diego!
 - Sep 2025: One survey paper on entity and event conceptualization is accepted by EMNLP 2025.
