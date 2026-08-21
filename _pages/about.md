@@ -18,16 +18,18 @@ Previously, I was an applied scientist intern at <img src="../images/amazon.png"
 ## Research Interest
 Currently, my research focuses on:
 - **Agent**
-  - Long-Horizon planning and execution: <img src="../images/tongyi.png" width="20px" style="display:inline;"> [Qwen3.7: The Agent Frontier](https://qwen.ai/blog?id=qwen3.7#long-horizon-planning-and-execution-in-startup-management), <img src="../images/tongyi.png" width="20px" style="display:inline;"> [Qwen3.6-Plus: Towards Real World Agents](https://qwen.ai/blog?id=qwen3.6), <img src="../images/tongyi.png" width="20px" style="display:inline;"> [Qwen3.5: Towards Native Multimodal Agents](https://qwen.ai/blog?id=qwen3.5), [DeepPlanner](https://arxiv.org/abs/2510.12979)
-  - Sub-Agent orchestration for dynamic workflows
+  - Long-Horizon planning and execution: <img src="../images/tongyi.png" width="20px" style="display:inline;"> [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8), <img src="../images/tongyi.png" width="20px" style="display:inline;"> [Qwen3.7: The Agent Frontier](https://qwen.ai/blog?id=qwen3.7#long-horizon-planning-and-execution-in-startup-management), <img src="../images/tongyi.png" width="20px" style="display:inline;"> [Qwen3.6-Plus: Towards Real World Agents](https://qwen.ai/blog?id=qwen3.6), <img src="../images/tongyi.png" width="20px" style="display:inline;"> [Qwen3.5: Towards Native Multimodal Agents](https://qwen.ai/blog?id=qwen3.5), [DeepPlanner](https://arxiv.org/abs/2510.12979)
+  - Sub-Agent orchestration for dynamic workflows: <img src="../images/tongyi.png" width="20px" style="display:inline;"> [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
 - **Legal & Safety**: 
   - General legal reasoning: [Legal Rule Induction](https://arxiv.org/abs/2505.14104), [LegalSearch-R1](https://arxiv.org/abs/2505.14104)
   - Privacy attack and defense: [🏆 GoldCoin](https://arxiv.org/abs/2406.11149), [Privacy Checklist](https://arxiv.org/abs/2408.10053), [Multi-step Jailbreak](https://arxiv.org/abs/2304.05197)
 
 
 ## <font color="#d70000">News</font>
-- May 2026: 🥤 We are excited to announce the release of the [Qwen3.7 Max](https://qwen.ai/blog?id=qwen3.7) model. My primary contribution focused on enhancing the agent's capabilities in **long-horizon** tasks.
-- Apr 2026: Three papers are accepted by ACL 2026. Topics cover deep research agents, large-scaleknowledge graph, and behavior understanding. See you in San Diego!
+- Aug 2026: Three papers are accepted by EMNLP 2026. See you in Budapest, Hungary!
+- Aug 2026: We are excited to announce the release of the [Qwen3.8-Max](https://qwen.ai/blog?id=qwen3.8) model and my contribution focused on the dynamic workflows and E-Commerce Bench.
+- May 2026: 🥤 We are excited to announce the release of the [Qwen3.7](https://qwen.ai/blog?id=qwen3.7) model. My primary contribution focused on enhancing the agent's capabilities in **long-horizon** tasks.
+- Apr 2026: Three papers are accepted by ACL 2026. Topics cover deep research agents, large-scale knowledge graph, and behavior understanding. See you in San Diego!
 - Sep 2025: One survey paper on entity and event conceptualization is accepted by EMNLP 2025.
 - Jul 2025: I am serving as an **Area Chair** for the ACL Rolling Review (July 2025).
 - Jun 2025: I start my internship at Amazon Stores Foundational AI as an Applied Scientist Intern.
@@ -46,7 +48,7 @@ Currently, my research focuses on:
 -  Visiting Student · [UoM](https://www.manchester.ac.uk/) · Computer Science · Jul.2019-Aug.2019
   
 ## Work Experience
-- **Tongyi Qwen, Alibaba Group, Hangzhou, China**
+- **Qwen, Alibaba Group, Hangzhou, China**
   - Research Intern, Jan.2026-Now
 
 - **Amazon Rufus LLM, Amazon, Palo Alto, CA, USA**
