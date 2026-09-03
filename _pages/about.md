@@ -18,7 +18,7 @@ Previously, I was an applied scientist intern at <img src="../images/amazon.png"
 ## Research Interest
 Currently, my research focuses on:
 - **Agent**
-  - Long-Horizon planning and execution: <img src="../images/tongyi.png" width="20px" style="display:inline;"> [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8), <img src="../images/tongyi.png" width="20px" style="display:inline;"> [Qwen3.7: The Agent Frontier](https://qwen.ai/blog?id=qwen3.7#long-horizon-planning-and-execution-in-startup-management), <img src="../images/tongyi.png" width="20px" style="display:inline;"> [Qwen3.6-Plus: Towards Real World Agents](https://qwen.ai/blog?id=qwen3.6), <img src="../images/tongyi.png" width="20px" style="display:inline;"> [Qwen3.5: Towards Native Multimodal Agents](https://qwen.ai/blog?id=qwen3.5), [DeepPlanner](https://arxiv.org/abs/2510.12979)
+  - Long-Horizon planning and execution: <img src="../images/tongyi.png" width="20px" style="display:inline;"> [E-Commerce Bench](https://qwen.ai/blog?id=e-commerce-bench) <img src="../images/tongyi.png" width="20px" style="display:inline;"> [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8), <img src="../images/tongyi.png" width="20px" style="display:inline;"> [Qwen3.7: The Agent Frontier](https://qwen.ai/blog?id=qwen3.7#long-horizon-planning-and-execution-in-startup-management), <img src="../images/tongyi.png" width="20px" style="display:inline;"> [Qwen3.6-Plus: Towards Real World Agents](https://qwen.ai/blog?id=qwen3.6), <img src="../images/tongyi.png" width="20px" style="display:inline;"> [Qwen3.5: Towards Native Multimodal Agents](https://qwen.ai/blog?id=qwen3.5), [DeepPlanner](https://arxiv.org/abs/2510.12979)
   - Sub-Agent orchestration for dynamic workflows: <img src="../images/tongyi.png" width="20px" style="display:inline;"> [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
 - **Legal & Safety**: 
   - General legal reasoning: [Legal Rule Induction](https://arxiv.org/abs/2505.14104), [LegalSearch-R1](https://arxiv.org/abs/2505.14104)
@@ -26,6 +26,7 @@ Currently, my research focuses on:
 
 
 ## <font color="#d70000">News</font>
+- Sep 2026: We are thrilled to introduce the [E-Commerce Bench](https://qwen.ai/blog?id=e-commerce-bench), a comprehensive benchmark for evaluating LLM agents in long-horizon autonomous business operations.
 - Aug 2026: Three papers are accepted by EMNLP 2026. See you in Budapest, Hungary!
 - Aug 2026: We are excited to announce the release of the [Qwen3.8-Max](https://qwen.ai/blog?id=qwen3.8) model and my contribution focused on the dynamic workflows and E-Commerce Bench.
 - May 2026: 🥤 We are excited to announce the release of the [Qwen3.7](https://qwen.ai/blog?id=qwen3.7) model. My primary contribution focused on enhancing the agent's capabilities in **long-horizon** tasks.

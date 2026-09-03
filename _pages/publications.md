@@ -9,22 +9,11 @@ author_profile: true
 
 `Remark: * indicates equal contribution.`
 
-**[Preprint]**
-- **Can LLMs Time Travel? Enhancing Temporal Consistency in Legal Agentic Search through Reinforcement Learning**
-  <br>**<font color="#000066">Wei Fan</font>**, Yining Zhou, Mufan Zhang, Yanbing Weng, Yiran HU, Tianshi Zheng, Baixuan Xu, Chunyang Li, Jianhui Yang, Haoran Li, Yangqiu Song.
-  <br>*Arxiv Preprint 2026.* [[paper]](https://arxiv.org/abs/2605.25920)[[code]](https://github.com/AlexFanw/LegalSearch-R1)
-- **A Survey on AI Agent Harness**
-  <br>Zhongwei Xie, Xiyu REN, Tianshi Zheng, Jiaxin Bai, Zhaowei Wang, **<font color="#000066">Wei Fan</font>**, Baixuan Xu, Wenbin Hu, Haoran Li, Huihao JING, Yangqiu Song.
-  <br>*ResearchGate Preprint 2026.* [[paper]](https://www.researchgate.net/publication/404675561_A_Survey_on_AI_Agent_Harness)
-- **AppellateGen: A Benchmark for Appellate Legal Judgment Generation**
-  <br>Hongkun Yang, Lionel Z. Wang, **<font color="#000066">Wei Fan</font>**, Yiran Hu, Lixu Wang, Chenyu Liu, Yu Zeng, Shenghong Fu, Lei Gong, Zhengxin Zhang, Haoyang Li, Jiexin Zheng, Xin Xu.
-  <br>*Arxiv Preprint 2026.* [[paper]](https://arxiv.org/abs/2601.01331)
-- **MASLegalBench: Benchmarking Multi-Agent Systems in Deductive Legal Reasoning**
-  <br>Huihao Jing, Wenbin Hu, Hongyu Luo, Jianhui Yang, **<font color="#000066">Wei Fan</font>**, Haoran Li, Yangqiu Song.
-  <br>*Arxiv Preprint 2025.* [[paper]](https://arxiv.org/abs/2509.24922)
-- **Towards Multi-Agent Reasoning Systems for Collaborative Expertise Delegation: An Exploratory Design Study**
-  <br>Baixuan Xu, Chunyang Li, Weiqi Wang, **<font color="#000066">Wei Fan</font>**, Tianshi Zheng, Haochen Shi, Tao Fan, Yangqiu Song, Qiang Yang.
-  <br>*Arxiv Preprint 2025.* [[paper]](https://www.arxiv.org/abs/2505.07313)
+**[Technical Report]**
+- **E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation**
+  <br> **<font color="#000066">Wei Fan</font>**, Xinjie Shen, Xudong Guo, Jianhong Tu, Yang Su, Yinger Zhang, Lianghao Deng, Fengyu Wang, Baohua Dong, Yangqiu Song, Dayiheng Liu
+  <br>*Qwen Technical Report*
+  <br>[[paper]](https://arxiv.org/abs/2608.30730)[[code]](https://github.com/QwenLM/E-CommerceBench)[[blog]](https://qwen.ai/blog?id=e-commerce-bench)
 
 **[Conference]**
 - **Legal Rule Induction: Towards Generalizable Principle Discovery from Analogous Judicial Precedents**
@@ -94,3 +83,20 @@ author_profile: true
   <br>Weijia Zhang, Jindong Han, Hao Liu, **<font color="#000066">Wei Fan</font>**, Hao Wang, Hui Xiong
   <br>Transactions on Intelligent Systems and Technology (TIST) 2025.
   <br>[[paper]](https://arxiv.org/abs/2410.08947)
+
+**[Preprint]**
+- **Can LLMs Time Travel? Enhancing Temporal Consistency in Legal Agentic Search through Reinforcement Learning**
+  <br>**<font color="#000066">Wei Fan</font>**, Yining Zhou, Mufan Zhang, Yanbing Weng, Yiran HU, Tianshi Zheng, Baixuan Xu, Chunyang Li, Jianhui Yang, Haoran Li, Yangqiu Song.
+  <br>*Arxiv Preprint 2026.* [[paper]](https://arxiv.org/abs/2605.25920)[[code]](https://github.com/AlexFanw/LegalSearch-R1)
+- **A Survey on AI Agent Harness**
+  <br>Zhongwei Xie, Xiyu REN, Tianshi Zheng, Jiaxin Bai, Zhaowei Wang, **<font color="#000066">Wei Fan</font>**, Baixuan Xu, Wenbin Hu, Haoran Li, Huihao JING, Yangqiu Song.
+  <br>*ResearchGate Preprint 2026.* [[paper]](https://www.researchgate.net/publication/404675561_A_Survey_on_AI_Agent_Harness)
+- **AppellateGen: A Benchmark for Appellate Legal Judgment Generation**
+  <br>Hongkun Yang, Lionel Z. Wang, **<font color="#000066">Wei Fan</font>**, Yiran Hu, Lixu Wang, Chenyu Liu, Yu Zeng, Shenghong Fu, Lei Gong, Zhengxin Zhang, Haoyang Li, Jiexin Zheng, Xin Xu.
+  <br>*Arxiv Preprint 2026.* [[paper]](https://arxiv.org/abs/2601.01331)
+- **MASLegalBench: Benchmarking Multi-Agent Systems in Deductive Legal Reasoning**
+  <br>Huihao Jing, Wenbin Hu, Hongyu Luo, Jianhui Yang, **<font color="#000066">Wei Fan</font>**, Haoran Li, Yangqiu Song.
+  <br>*Arxiv Preprint 2025.* [[paper]](https://arxiv.org/abs/2509.24922)
+- **Towards Multi-Agent Reasoning Systems for Collaborative Expertise Delegation: An Exploratory Design Study**
+  <br>Baixuan Xu, Chunyang Li, Weiqi Wang, **<font color="#000066">Wei Fan</font>**, Tianshi Zheng, Haochen Shi, Tao Fan, Yangqiu Song, Qiang Yang.
+  <br>*Arxiv Preprint 2025.* [[paper]](https://www.arxiv.org/abs/2505.07313)
